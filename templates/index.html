@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Weapon Generator</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">Fantasy Weapon Generator</div>
+            <div class="tagline">AI-powered legendary items for your game</div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>Generate Weapon</h2>
+            <form id="generation-form" method="post" action="/generate-web">
+                <div class="form-group">
+                    <label for="prompt">Prompt:</label>
+                    <input type="text" id="prompt" name="prompt" placeholder="e.g., Generate a legendary ice dagger" required>
+                </div>
+                <div class="form-group">
+                    <label for="temperature">Temperature (0.1-1.5):</label>
+                    <input type="range" id="temperature" name="temperature" min="0.1" max="1.5" step="0.1" value="0.8">
+                    <span id="temperature-value">0.8</span>
+                </div>
+                <div class="form-group">
+                    <label for="max_length">Max Length:</label>
+                    <input type="range" id="max_length" name="max_length" min="50" max="500" step="10" value="200">
+                    <span id="max_length-value">200</span>
+                </div>
+                <button type="submit">Generate</button>
+            </form>
+        </div>
+
+        {% if result %}
+        <div class="card result">
+            <h2>Result</h2>
+            <div class="weapon-result">
+                {{ result | safe }}
+            </div>
+        </div>
+        {% endif %}
+        
+        <div class="card">
+            <h2>API Information</h2>
+            <p>Use our API endpoints to generate weapons programmatically:</p>
+            
+            <h3>Endpoints:</h3>
+            <ul>
+                <li><code>GET /status</code> - Get API status and model information</li>
+                <li><code>GET /generate?prompt=YOUR_PROMPT</code> - Generate weapon based on prompt</li>
+                <li><code>POST /generate</code> - Generate weapon with additional parameters</li>
+                <li><code>GET /logs</code> - View request logs (admin only)</li>
+            </ul>
+            
+            <h3>Example:</h3>
+            <pre>curl -X POST "http://localhost:8000/generate" -H "Content-Type: application/json" -d '{"prompt": "Generate a legendary frost bow", "temperature": 0.8, "max_length": 200}'</pre>
+        </div>
+    </div>
+
+    <script>
+        // Update slider values
+        document.getElementById('temperature').addEventListener('input', function() {
+            document.getElementById('temperature-value').textContent = this.value;
+        });
+        
+        document.getElementById('max_length').addEventListener('input', function() {
+            document.getElementById('max_length-value').textContent = this.value;
+        });
+    </script>
+</body>
+</html>

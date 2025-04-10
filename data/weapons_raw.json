@@ -1,0 +1,4746 @@
+[
+  {
+    "name": "Club",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Light",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Dagger",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Finesse",
+      "Light",
+      "Thrown",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Greatclub",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Handaxe",
+    "type": "Simple",
+    "damage_type": "Slashing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Light",
+      "Thrown",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Javelin",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Thrown",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Light hammer",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Light",
+      "Thrown",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Mace",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Monk"
+    ]
+  },
+  {
+    "name": "Quarterstaff",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Versatile",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Sickle",
+    "type": "Simple",
+    "damage_type": "Slashing",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Light",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Spear",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Thrown",
+      "Versatile",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Crossbow, light",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Loading",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Dart",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Finesse",
+      "Thrown"
+    ]
+  },
+  {
+    "name": "Shortbow",
+    "type": "Simple",
+    "damage_type": "Piercing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Sling",
+    "type": "Simple",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Ammunition"
+    ]
+  },
+  {
+    "name": "Battleaxe",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Versatile"
+    ]
+  },
+  {
+    "name": "Flail",
+    "type": "Martial",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": []
+  },
+  {
+    "name": "Glaive",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d10",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Reach",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Greataxe",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d12",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Greatsword",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "2d6",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Halberd",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d10",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Reach",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Lance",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d12",
+    "description": "",
+    "properties": [
+      "Reach",
+      "Special"
+    ]
+  },
+  {
+    "name": "Longsword",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Versatile"
+    ]
+  },
+  {
+    "name": "Maul",
+    "type": "Martial",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "2d6",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Morningstar",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": []
+  },
+  {
+    "name": "Pike",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d10",
+    "description": "",
+    "properties": [
+      "Heavy",
+      "Reach",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Rapier",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Finesse"
+    ]
+  },
+  {
+    "name": "Scimitar",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Finesse",
+      "Light"
+    ]
+  },
+  {
+    "name": "Shortsword",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Finesse",
+      "Light",
+      "Monk"
+    ]
+  },
+  {
+    "name": "Trident",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Thrown",
+      "Versatile"
+    ]
+  },
+  {
+    "name": "War pick",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": []
+  },
+  {
+    "name": "Warhammer",
+    "type": "Martial",
+    "damage_type": "Bludgeoning",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Versatile"
+    ]
+  },
+  {
+    "name": "Whip",
+    "type": "Martial",
+    "damage_type": "Slashing",
+    "damage_dice": "1d4",
+    "description": "",
+    "properties": [
+      "Finesse",
+      "Reach"
+    ]
+  },
+  {
+    "name": "Blowgun",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Loading"
+    ]
+  },
+  {
+    "name": "Crossbow, hand",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d6",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Light",
+      "Loading"
+    ]
+  },
+  {
+    "name": "Crossbow, heavy",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d10",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Heavy",
+      "Loading",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Longbow",
+    "type": "Martial",
+    "damage_type": "Piercing",
+    "damage_dice": "1d8",
+    "description": "",
+    "properties": [
+      "Ammunition",
+      "Heavy",
+      "Two-Handed"
+    ]
+  },
+  {
+    "name": "Net",
+    "type": "Martial",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "",
+    "properties": [
+      "Thrown",
+      "Special"
+    ]
+  },
+  {
+    "name": "Berserker Axe",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any axe), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Dagger of Venom",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (dagger), rare",
+    "properties": []
+  },
+  {
+    "name": "Dancing Sword",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Defender",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), legendary (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Dragon Slayer",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), rare",
+    "properties": []
+  },
+  {
+    "name": "Dwarven Thrower",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (warhammer), very rare (requires attunement by a dwarf)",
+    "properties": []
+  },
+  {
+    "name": "Flame Tongue",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Frost Brand",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Giant Slayer",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any axe or sword), rare",
+    "properties": []
+  },
+  {
+    "name": "Hammer of Thunderbolts",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (maul), legendary",
+    "properties": []
+  },
+  {
+    "name": "Holy Avenger",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), legendary (requires attunement by a paladin)",
+    "properties": []
+  },
+  {
+    "name": "Javelin of Lightning",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (javelin), uncommon",
+    "properties": []
+  },
+  {
+    "name": "Luck Blade",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), legendary (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Mace of Disruption",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (mace), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Mace of Smiting",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (mace), rare",
+    "properties": []
+  },
+  {
+    "name": "Mace of Terror",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (mace), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Nine Lives Stealer",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Oathbow",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (longbow), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Scimitar of Speed",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (scimitar), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Sun Blade",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (longsword), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Sword of Life Stealing",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Sword of Sharpness",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword that deals slashing damage), very rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Sword of Wounding",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword), rare (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Trident of Fish Command",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (trident), uncommon (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Vicious Weapon",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any), rare",
+    "properties": []
+  },
+  {
+    "name": "Vorpal Sword",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any sword that deals slashing damage), legendary (requires attunement)",
+    "properties": []
+  },
+  {
+    "name": "Weapon, +1, +2, or +3",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any), uncommon (+1), rare (+2), or very rare (+3)",
+    "properties": []
+  },
+  {
+    "name": "Weapon, +1",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any), uncommon",
+    "properties": []
+  },
+  {
+    "name": "Weapon, +2",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any), rare",
+    "properties": []
+  },
+  {
+    "name": "Weapon, +3",
+    "type": "",
+    "damage_type": "",
+    "damage_dice": "",
+    "description": "Weapon (any), very rare",
+    "properties": []
+  },
+  {
+    "name": "Nether Axe",
+    "type": "Katana",
+    "damage_type": "Acid",
+    "damage_dice": "2d6",
+    "description": "Said to have belonged to the Fey Queen, this katana can cleave through stone.",
+    "properties": [
+      "Vampiric",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Lance of Reckoning",
+    "type": "Hammer",
+    "damage_type": "Ice",
+    "damage_dice": "3d8",
+    "description": "Wielded long ago by Emperor Valorian, this hammer grants visions of the future. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Glaive of Doom",
+    "type": "Hammer",
+    "damage_type": "Blood",
+    "damage_dice": "3d12",
+    "description": "Legend says this hammer was carved from a single crystal. It summons spectral allies in battle.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Blade of exceptional sharpness",
+    "type": "Blade",
+    "damage_type": "Void",
+    "damage_dice": "3d10",
+    "description": "Forged in the depths of the Emerald Valley, this blade vibrates in the presence of evil.",
+    "properties": []
+  },
+  {
+    "name": "Glaive of Storms",
+    "type": "Longbow",
+    "damage_type": "Psychic",
+    "damage_dice": "3d4",
+    "description": "Legend says this longbow was grown from a magical seed. It absorbs spells cast at the wielder.",
+    "properties": [
+      "Enchanted",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "The Jade Rapier",
+    "type": "Dagger",
+    "damage_type": "Nature",
+    "damage_dice": "2d8",
+    "description": "the Last Dragon's favored dagger, known to summons spectral allies in battle.",
+    "properties": [
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Whip of Power",
+    "type": "Saber",
+    "damage_type": "Poison",
+    "damage_dice": "1d6",
+    "description": "This saber never requires sharpening, making it ancient wisdom.",
+    "properties": [
+      "Legendary",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Maul of unspeakable power",
+    "type": "Longsword",
+    "damage_type": "Holy",
+    "damage_dice": "3d12",
+    "description": "Lich King Morthus's favored longsword, known to creates illusions to confuse foes.",
+    "properties": [
+      "Ancient",
+      "Runic",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "The Frost Shortbow",
+    "type": "Shortbow",
+    "damage_type": "Void",
+    "damage_dice": "3d8",
+    "description": "Forged in the depths of Celestial Kingdoms, this shortbow hungers for the blood of enemies.",
+    "properties": []
+  },
+  {
+    "name": "Ancient Longsword of the Fallen",
+    "type": "Longbow",
+    "damage_type": "Arcane",
+    "damage_dice": "3d10",
+    "description": "This longbow sends shivers down one's spine when under the light of the stars.",
+    "properties": [
+      "Blessed",
+      "Mythical",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Flail of terrifying presence",
+    "type": "Staff",
+    "damage_type": "Necrotic",
+    "damage_dice": "1d6",
+    "description": "When wielded with hatred, this staff emits blinding light on command.",
+    "properties": []
+  },
+  {
+    "name": "Nova Lance of Oblivion",
+    "type": "Dagger",
+    "damage_type": "Force",
+    "damage_dice": "2d12",
+    "description": "This dagger vibrates in the presence of evil, making it haunting beauty.",
+    "properties": [
+      "Enchanted",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Oracle Staff of Destruction",
+    "type": "Trident",
+    "damage_type": "Chaos",
+    "damage_dice": "2d10",
+    "description": "This trident freezes the air around it, making it perfect weight.",
+    "properties": [
+      "Elemental",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Blazing Maul of Souls",
+    "type": "Hammer",
+    "damage_type": "Arcane",
+    "damage_dice": "1d4",
+    "description": "When during the heat of battle, this hammer never misses its target.",
+    "properties": [
+      "Legendary",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Mace of incredible durability",
+    "type": "Crossbow",
+    "damage_type": "Acid",
+    "damage_dice": "2d6",
+    "description": "A crossbow born from the tears of a goddess, it causes foes to flee in terror with every strike.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Havoc Halberd of Frost",
+    "type": "Bow",
+    "damage_type": "Ice",
+    "damage_dice": "1d4",
+    "description": "Wielded long ago by Emperor Valorian, this bow ignites enemies on contact. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Vorpal",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Wand of the Ancients",
+    "type": "Falchion",
+    "damage_type": "Wind",
+    "damage_dice": "3d8",
+    "description": "When wielded by one of pure heart, this falchion returns to the wielder's hand when thrown.",
+    "properties": [
+      "Balanced",
+      "Legendary",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "The Ancient Glaive",
+    "type": "Greatsword",
+    "damage_type": "Blood",
+    "damage_dice": "1d12",
+    "description": "When covered in blood, this greatsword returns to the wielder's hand when thrown.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Wand of haunting beauty",
+    "type": "Longbow",
+    "damage_type": "Thunder",
+    "damage_dice": "1d4",
+    "description": "When during the heat of battle, this longbow freezes foes with a touch.",
+    "properties": []
+  },
+  {
+    "name": "Axe of unparalleled balance",
+    "type": "Maul",
+    "damage_type": "Nature",
+    "damage_dice": "2d6",
+    "description": "This maul leaves shadowy trails when swung, making it exceptional sharpness.",
+    "properties": [
+      "Legendary",
+      "Soulbound",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Phantom Greataxe of Victory",
+    "type": "Scythe",
+    "damage_type": "Radiant",
+    "damage_dice": "2d12",
+    "description": "A scythe carved from a single crystal, it causes foes to flee in terror with every strike.",
+    "properties": []
+  },
+  {
+    "name": "The Knight's Whip",
+    "type": "Falchion",
+    "damage_type": "Poison",
+    "damage_dice": "1d4",
+    "description": "A falchion of ancient wisdom, summons spectral allies in battle upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Jade Whip",
+    "type": "Longbow",
+    "damage_type": "Void",
+    "damage_dice": "1d12",
+    "description": "This longbow never requires sharpening when during the heat of battle.",
+    "properties": []
+  },
+  {
+    "name": "Whisper Mace of the Eclipse",
+    "type": "Greataxe",
+    "damage_type": "Ice",
+    "damage_dice": "1d12",
+    "description": "Wielded long ago by Captain Silverhand, this greataxe strikes with the force of lightning.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Whip of royal heritage",
+    "type": "Blade",
+    "damage_type": "Force",
+    "damage_dice": "1d6",
+    "description": "A blade recovered from the depths of the sea, it grows in power during the night with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Hallowed Rapier of Nightmares",
+    "type": "Greataxe",
+    "damage_type": "Force",
+    "damage_dice": "2d10",
+    "description": "Legend says this greataxe was blessed by seven sages. It leaves wounds that never heal.",
+    "properties": [
+      "Soulbound",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Hammer of mysterious origins",
+    "type": "Longbow",
+    "damage_type": "Physical",
+    "damage_dice": "1d6",
+    "description": "This longbow never requires sharpening, making it boundless rage.",
+    "properties": [
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Zephyr Bow",
+    "type": "Greatsword",
+    "damage_type": "Shadow",
+    "damage_dice": "3d8",
+    "description": "Legend says this greatsword was assembled during a celestial alignment. It ignites in brilliant flames. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Sentient",
+      "Soulbound",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Saber of boundless rage",
+    "type": "Spear",
+    "damage_type": "Void",
+    "damage_dice": "1d12",
+    "description": "Forged in the depths of the Frozen Wastes, this spear freezes the air around it.",
+    "properties": [
+      "Balanced",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Chaos Hammer of Vengeance",
+    "type": "Greataxe",
+    "damage_type": "Psychic",
+    "damage_dice": "3d6",
+    "description": "A greataxe of haunting beauty, grows in power during the night upon its enemies.",
+    "properties": [
+      "Sharpened",
+      "Vampiric",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Maul of Storms",
+    "type": "Staff",
+    "damage_type": "Radiant",
+    "damage_dice": "2d6",
+    "description": "Legend says this staff was blessed by seven sages. It binds victims in ghostly chains.",
+    "properties": [
+      "Ethereal",
+      "Cursed",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Jinx Saber",
+    "type": "Rapier",
+    "damage_type": "Acid",
+    "damage_dice": "1d4",
+    "description": "A rapier of terrifying presence, causes foes to flee in terror upon its enemies.",
+    "properties": [
+      "Vampiric",
+      "Balanced",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Dagger of boundless rage",
+    "type": "Blade",
+    "damage_type": "Nature",
+    "damage_dice": "2d10",
+    "description": "Wielded long ago by Oracle Zephyrus, this blade returns to the wielder's hand when thrown.",
+    "properties": [
+      "Ancient",
+      "Enchanted",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Rune Trident",
+    "type": "Hammer",
+    "damage_type": "Thunder",
+    "damage_dice": "3d6",
+    "description": "This hammer hums an ancient melody when under the light of the stars.",
+    "properties": [
+      "Soulbound",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Hammer of Light",
+    "type": "Glaive",
+    "damage_type": "Force",
+    "damage_dice": "2d4",
+    "description": "Said to have belonged to High Priestess Lunara, this glaive instills fear in enemies.",
+    "properties": []
+  },
+  {
+    "name": "Leviathan Dagger",
+    "type": "Rapier",
+    "damage_type": "Chaos",
+    "damage_dice": "2d12",
+    "description": "This rapier never requires sharpening, making it royal heritage.",
+    "properties": [
+      "Blessed",
+      "Sharpened",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Longsword of ancient wisdom",
+    "type": "Trident",
+    "damage_type": "Chaos",
+    "damage_dice": "1d8",
+    "description": "Legend says this trident was made from the bones of a god. It leaves wounds that never heal.",
+    "properties": [
+      "Cursed",
+      "Sentient",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Frost Longsword of Souls",
+    "type": "Whip",
+    "damage_type": "Lightning",
+    "damage_dice": "1d6",
+    "description": "This whip freezes the air around it when facing overwhelming odds. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "The Xenith Rapier",
+    "type": "Halberd",
+    "damage_type": "Arcane",
+    "damage_dice": "2d12",
+    "description": "This halberd freezes the air around it when wielded by one of pure heart.",
+    "properties": [
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Whip of demonic corruption",
+    "type": "Whip",
+    "damage_type": "Holy",
+    "damage_dice": "1d8",
+    "description": "Forged in the depths of the Shadow Realm, this whip hungers for the blood of enemies.",
+    "properties": [
+      "Enchanted",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Lance of incredible durability",
+    "type": "Flail",
+    "damage_type": "Ice",
+    "damage_dice": "1d8",
+    "description": "A flail of unparalleled balance, summons spectral allies in battle upon its enemies. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Saber of the Hunt",
+    "type": "Wand",
+    "damage_type": "Wind",
+    "damage_dice": "1d4",
+    "description": "Said to have belonged to Captain Silverhand, this wand grants visions of the future.",
+    "properties": []
+  },
+  {
+    "name": "The Venom Glaive",
+    "type": "Greatsword",
+    "damage_type": "Nature",
+    "damage_dice": "1d8",
+    "description": "Said to have belonged to Oracle Zephyrus, this greatsword freezes foes with a touch.",
+    "properties": [
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Longsword of Frost",
+    "type": "Axe",
+    "damage_type": "Thunder",
+    "damage_dice": "1d8",
+    "description": "When in the presence of magic, this axe grows stronger with each kill.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Warden's Crossbow",
+    "type": "Saber",
+    "damage_type": "Wind",
+    "damage_dice": "1d6",
+    "description": "A saber recovered from the depths of the sea, it cleaves through reality itself with every strike.",
+    "properties": [
+      "Legendary",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Falchion of Power",
+    "type": "Staff",
+    "damage_type": "Blood",
+    "damage_dice": "3d10",
+    "description": "A staff of ancient wisdom, leaves trails of elemental energy upon its enemies.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Phantom Wand",
+    "type": "Maul",
+    "damage_type": "Ice",
+    "damage_dice": "2d8",
+    "description": "When confronting ancient evils, this maul can cleave through stone.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Saber of Destruction",
+    "type": "Bow",
+    "damage_type": "Holy",
+    "damage_dice": "3d12",
+    "description": "This bow never requires sharpening, making it unparalleled balance.",
+    "properties": [
+      "Corrupted",
+      "Berserker",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Arcane Scythe",
+    "type": "Flail",
+    "damage_type": "Lightning",
+    "damage_dice": "1d6",
+    "description": "King Thoran's favored flail, known to howls with the voices of past victims. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Sword of the Cosmos",
+    "type": "Katana",
+    "damage_type": "Void",
+    "damage_dice": "3d6",
+    "description": "A katana constructed by clockwork gnomes, it drains the magic from spellcasters with every strike.",
+    "properties": [
+      "Cursed",
+      "Elemental",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Saber of deadly precision",
+    "type": "Maul",
+    "damage_type": "Wind",
+    "damage_dice": "1d8",
+    "description": "Forged in the depths of the Shadow Realm, this maul sends shivers down one's spine.",
+    "properties": []
+  },
+  {
+    "name": "Halberd of the Void",
+    "type": "Whip",
+    "damage_type": "Thunder",
+    "damage_dice": "3d12",
+    "description": "Forged in the depths of Mount Doomspire, this whip pulses with arcane energy.",
+    "properties": [
+      "Soulbound",
+      "Elemental",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Scythe of exceptional sharpness",
+    "type": "Maul",
+    "damage_type": "Lightning",
+    "damage_dice": "2d10",
+    "description": "This maul whispers dark secrets when facing demons or undead. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Berserker",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "The Nether Greataxe",
+    "type": "Scythe",
+    "damage_type": "Acid",
+    "damage_dice": "3d4",
+    "description": "This scythe freezes the air around it when covered in blood.",
+    "properties": [
+      "Mythical",
+      "Ancient",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Blade of Storms",
+    "type": "Crossbow",
+    "damage_type": "Force",
+    "damage_dice": "2d12",
+    "description": "King Thoran's favored crossbow, known to causes foes to flee in terror.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Greataxe of unspeakable power",
+    "type": "Flail",
+    "damage_type": "Force",
+    "damage_dice": "3d12",
+    "description": "This flail never requires sharpening, making it mysterious origins.",
+    "properties": [
+      "Spectral",
+      "Sentient",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Mace of deadly precision",
+    "type": "Claymore",
+    "damage_type": "Nature",
+    "damage_dice": "1d6",
+    "description": "Legend says this claymore was carved from a single crystal. It heals the wielder with each strike.",
+    "properties": [
+      "Vorpal",
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "Aegis Axe of Light",
+    "type": "Greatsword",
+    "damage_type": "Shadow",
+    "damage_dice": "2d10",
+    "description": "Legend says this greatsword was carved from a single crystal. It reveals invisible creatures. The weapon seems to absorb light from its surroundings.",
+    "properties": []
+  },
+  {
+    "name": "Nether Longsword",
+    "type": "Halberd",
+    "damage_type": "Poison",
+    "damage_dice": "2d8",
+    "description": "A halberd forged in dragon fire, it causes foes to flee in terror with every strike.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Havoc Halberd of the Cosmos",
+    "type": "Saber",
+    "damage_type": "Poison",
+    "damage_dice": "3d12",
+    "description": "the Dread Pirate Nex's favored saber, known to absorbs spells cast at the wielder.",
+    "properties": []
+  },
+  {
+    "name": "Maul of mysterious origins",
+    "type": "Longsword",
+    "damage_type": "Psychic",
+    "damage_dice": "1d6",
+    "description": "Forged in the depths of Kraken's Deep, this longsword whispers dark secrets.",
+    "properties": [
+      "Corrupted",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Whip of unspeakable power",
+    "type": "Wand",
+    "damage_type": "Arcane",
+    "damage_dice": "2d8",
+    "description": "This wand hungers for the blood of enemies when under the light of the stars.",
+    "properties": [
+      "Soulbound",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "The Thunder Axe",
+    "type": "Halberd",
+    "damage_type": "Thunder",
+    "damage_dice": "2d10",
+    "description": "Wielded long ago by Captain Silverhand, this halberd returns to the wielder's hand when thrown.",
+    "properties": [
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "Frost Wand of the Abyss",
+    "type": "Dagger",
+    "damage_type": "Poison",
+    "damage_dice": "2d12",
+    "description": "the Demon Prince's favored dagger, known to howls with the voices of past victims.",
+    "properties": [
+      "Ethereal",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Rapier of boundless rage",
+    "type": "Staff",
+    "damage_type": "Poison",
+    "damage_dice": "3d4",
+    "description": "This staff pulses with arcane energy when held by a true hero.",
+    "properties": [
+      "Vorpal",
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "Longsword of Power",
+    "type": "Claymore",
+    "damage_type": "Ice",
+    "damage_dice": "3d8",
+    "description": "This claymore leaves shadowy trails when swung when bathed in moonlight. A thin layer of frost covers the weapon at all times.",
+    "properties": []
+  },
+  {
+    "name": "Venom Lance",
+    "type": "Greatsword",
+    "damage_type": "Psychic",
+    "damage_dice": "3d10",
+    "description": "Wielded long ago by the Fey Queen, this greatsword never misses its target.",
+    "properties": [
+      "Vorpal",
+      "Balanced",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Glaive of Light",
+    "type": "Saber",
+    "damage_type": "Necrotic",
+    "damage_dice": "1d10",
+    "description": "Forged in the depths of the Frozen Wastes, this saber hungers for the blood of enemies.",
+    "properties": []
+  },
+  {
+    "name": "Eldritch Katana",
+    "type": "Halberd",
+    "damage_type": "Ice",
+    "damage_dice": "3d6",
+    "description": "A halberd assembled during a celestial alignment, it ignites in brilliant flames with every strike.",
+    "properties": [
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Pike of Eternity",
+    "type": "Glaive",
+    "damage_type": "Arcane",
+    "damage_dice": "3d12",
+    "description": "Wielded long ago by Oracle Zephyrus, this glaive never misses its target.",
+    "properties": []
+  },
+  {
+    "name": "Greataxe of the Fallen",
+    "type": "Katana",
+    "damage_type": "Chaos",
+    "damage_dice": "1d12",
+    "description": "Wielded long ago by King Thoran, this katana grants visions of the future.",
+    "properties": [
+      "Berserker",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Chaos Dagger of Dreams",
+    "type": "Bow",
+    "damage_type": "Physical",
+    "damage_dice": "2d6",
+    "description": "A bow of unparalleled balance, causes foes to flee in terror upon its enemies.",
+    "properties": [
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "The Shadow Mace",
+    "type": "Mace",
+    "damage_type": "Blood",
+    "damage_dice": "3d10",
+    "description": "This mace hungers for the blood of enemies when covered in blood.",
+    "properties": [
+      "Ancient",
+      "Soulbound",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Longbow of Glory",
+    "type": "Staff",
+    "damage_type": "Force",
+    "damage_dice": "2d6",
+    "description": "Forged in the depths of Elven Glades, this staff pulses with arcane energy.",
+    "properties": [
+      "Elemental",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Pike of Storms",
+    "type": "Scythe",
+    "damage_type": "Physical",
+    "damage_dice": "2d6",
+    "description": "A scythe of haunting beauty, disrupts magical barriers upon its enemies.",
+    "properties": [
+      "Blessed",
+      "Cursed",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Shadow Falchion",
+    "type": "Longbow",
+    "damage_type": "Physical",
+    "damage_dice": "3d8",
+    "description": "A longbow of unspeakable power, creates illusions to confuse foes upon its enemies.",
+    "properties": [
+      "Sharpened",
+      "Soulbound",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Kraken Glaive of Souls",
+    "type": "Crossbow",
+    "damage_type": "Arcane",
+    "damage_dice": "3d12",
+    "description": "When bathed in moonlight, this crossbow reveals hidden enemies.",
+    "properties": [
+      "Legendary",
+      "Sharpened",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Radiant Saber",
+    "type": "Claymore",
+    "damage_type": "Physical",
+    "damage_dice": "1d12",
+    "description": "Forged in the depths of Demon's Crucible, this claymore drains life from those it cuts.",
+    "properties": []
+  },
+  {
+    "name": "Claymore of Vengeance",
+    "type": "Greatsword",
+    "damage_type": "Nature",
+    "damage_dice": "2d4",
+    "description": "Wielded long ago by King Thoran, this greatsword amplifies magical abilities.",
+    "properties": []
+  },
+  {
+    "name": "Staff of the Abyss",
+    "type": "Longsword",
+    "damage_type": "Nature",
+    "damage_dice": "3d12",
+    "description": "A longsword found in an ancient tomb, it creates illusions to confuse foes with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Serpent Hammer",
+    "type": "Hammer",
+    "damage_type": "Poison",
+    "damage_dice": "1d6",
+    "description": "King Thoran's favored hammer, known to leaves wounds that never heal.",
+    "properties": [
+      "Sentient",
+      "Runic",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Aegis Longsword of the Fallen",
+    "type": "Spear",
+    "damage_type": "Force",
+    "damage_dice": "3d4",
+    "description": "Wielded long ago by King Thoran, this spear protects against dark magic.",
+    "properties": [
+      "Ethereal",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Dread Sword of Eternity",
+    "type": "Wand",
+    "damage_type": "Shadow",
+    "damage_dice": "2d4",
+    "description": "This wand burns with eternal flames, making it terrifying presence.",
+    "properties": [
+      "Ethereal",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Maul of unspeakable power",
+    "type": "Mace",
+    "damage_type": "Arcane",
+    "damage_dice": "2d4",
+    "description": "Said to have belonged to Oracle Zephyrus, this mace slows time during combat.",
+    "properties": [
+      "Elemental",
+      "Enchanted",
+      "Runic"
+    ]
+  },
+  {
+    "name": "The Frost Dagger",
+    "type": "Greatsword",
+    "damage_type": "Lightning",
+    "damage_dice": "3d4",
+    "description": "Forged in the depths of Kraken's Deep, this greatsword hungers for the blood of enemies.",
+    "properties": [
+      "Spectral",
+      "Vampiric",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Longsword of the Void",
+    "type": "Halberd",
+    "damage_type": "Thunder",
+    "damage_dice": "2d8",
+    "description": "Said to have belonged to Blacksmith Durin, this halberd protects against dark magic.",
+    "properties": []
+  },
+  {
+    "name": "Staff of perfect weight",
+    "type": "Blade",
+    "damage_type": "Chaos",
+    "damage_dice": "1d12",
+    "description": "Legend says this blade was stolen from the armory of demons. It reveals invisible creatures.",
+    "properties": [
+      "Mythical",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Glaive of the Cosmos",
+    "type": "Glaive",
+    "damage_type": "Holy",
+    "damage_dice": "2d4",
+    "description": "Forged in the depths of the Phoenix Peaks, this glaive vibrates in the presence of evil.",
+    "properties": []
+  },
+  {
+    "name": "Halberd of Judgment",
+    "type": "Pike",
+    "damage_type": "Fire",
+    "damage_dice": "3d12",
+    "description": "This pike hums an ancient melody, making it exceptional sharpness.",
+    "properties": [
+      "Ancient",
+      "Mythical",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Flail of royal heritage",
+    "type": "Saber",
+    "damage_type": "Void",
+    "damage_dice": "2d10",
+    "description": "This saber hungers for the blood of enemies when in the hands of royalty.",
+    "properties": [
+      "Blessed",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Pike of Flames",
+    "type": "Sword",
+    "damage_type": "Lightning",
+    "damage_dice": "2d10",
+    "description": "Wielded long ago by the Fey Queen, this sword instills fear in enemies.",
+    "properties": [
+      "Vorpal",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Dagger of Dragons",
+    "type": "Bow",
+    "damage_type": "Force",
+    "damage_dice": "2d6",
+    "description": "Wielded long ago by Blacksmith Durin, this bow ignites enemies on contact.",
+    "properties": [
+      "Vorpal",
+      "Balanced",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Ghost Halberd",
+    "type": "Greatsword",
+    "damage_type": "Blood",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to the Last Dragon, this greatsword ignites enemies on contact.",
+    "properties": [
+      "Vampiric",
+      "Berserker",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Thunder Longbow",
+    "type": "Spear",
+    "damage_type": "Physical",
+    "damage_dice": "2d10",
+    "description": "Legend says this spear was blessed by seven sages. It reveals invisible creatures.",
+    "properties": []
+  },
+  {
+    "name": "Ivory Hammer",
+    "type": "Greataxe",
+    "damage_type": "Thunder",
+    "damage_dice": "2d6",
+    "description": "This greataxe vibrates in the presence of evil when confronting ancient evils.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "The Havoc Shortbow",
+    "type": "Halberd",
+    "damage_type": "Blood",
+    "damage_dice": "1d4",
+    "description": "Forged in the depths of the Eternal Forge, this halberd leaves shadowy trails when swung.",
+    "properties": [
+      "Sharpened",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Dread Scythe",
+    "type": "Crossbow",
+    "damage_type": "Chaos",
+    "damage_dice": "3d12",
+    "description": "Said to have belonged to the Twilight Assassin, this crossbow ignites enemies on contact.",
+    "properties": [
+      "Enchanted",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Umbral Trident of Doom",
+    "type": "Crossbow",
+    "damage_type": "Poison",
+    "damage_dice": "3d6",
+    "description": "A crossbow forged in dragon fire, it howls with the voices of past victims with every strike.",
+    "properties": [
+      "Berserker",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Hallowed Whip",
+    "type": "Shortbow",
+    "damage_type": "Physical",
+    "damage_dice": "1d4",
+    "description": "A shortbow grown from a magical seed, it binds victims in ghostly chains with every strike.",
+    "properties": [
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Jade Spear",
+    "type": "Longbow",
+    "damage_type": "Lightning",
+    "damage_dice": "3d4",
+    "description": "Oracle Zephyrus's favored longbow, known to causes foes to flee in terror. Small sparks dance across the surface when wielded.",
+    "properties": []
+  },
+  {
+    "name": "Zephyr Halberd",
+    "type": "Blade",
+    "damage_type": "Holy",
+    "damage_dice": "1d10",
+    "description": "This blade shifts its form slightly, making it mysterious origins.",
+    "properties": [
+      "Ethereal",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Infernal Glaive",
+    "type": "Longbow",
+    "damage_type": "Poison",
+    "damage_dice": "1d4",
+    "description": "Said to have belonged to King Thoran, this longbow strikes with the force of lightning.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Chaos Bow",
+    "type": "Pike",
+    "damage_type": "Acid",
+    "damage_dice": "1d6",
+    "description": "Wielded long ago by Lich King Morthus, this pike can cut through any armor.",
+    "properties": [
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Rapier of Destruction",
+    "type": "Scythe",
+    "damage_type": "Nature",
+    "damage_dice": "3d10",
+    "description": "A scythe constructed by clockwork gnomes, it causes foes to flee in terror with every strike.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Katana of Conquest",
+    "type": "Katana",
+    "damage_type": "Void",
+    "damage_dice": "3d8",
+    "description": "Said to have belonged to the Dread Pirate Nex, this katana can cleave through stone.",
+    "properties": [
+      "Vampiric",
+      "Ancient",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Celestial Pike",
+    "type": "Rapier",
+    "damage_type": "Shadow",
+    "damage_dice": "3d8",
+    "description": "A rapier grown from a magical seed, it creates illusions to confuse foes with every strike.",
+    "properties": [
+      "Ancient",
+      "Spectral",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Mithril Claymore of Destruction",
+    "type": "Staff",
+    "damage_type": "Fire",
+    "damage_dice": "1d8",
+    "description": "A staff of haunting beauty, heals the wielder with each strike upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Flail of Flames",
+    "type": "Shortbow",
+    "damage_type": "Nature",
+    "damage_dice": "1d8",
+    "description": "Forged in the depths of the Starfall Isles, this shortbow shifts its form slightly.",
+    "properties": []
+  },
+  {
+    "name": "Shortbow of Souls",
+    "type": "Scythe",
+    "damage_type": "Thunder",
+    "damage_dice": "2d4",
+    "description": "Legend says this scythe was born from the tears of a goddess. It heals the wielder with each strike.",
+    "properties": []
+  },
+  {
+    "name": "Saber of Conquest",
+    "type": "Flail",
+    "damage_type": "Psychic",
+    "damage_dice": "1d12",
+    "description": "Wielded long ago by the Fey Queen, this flail freezes foes with a touch.",
+    "properties": [
+      "Berserker",
+      "Spectral",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Feral Spear of Conquest",
+    "type": "Saber",
+    "damage_type": "Chaos",
+    "damage_dice": "2d4",
+    "description": "the Demon Prince's favored saber, known to ignites in brilliant flames.",
+    "properties": []
+  },
+  {
+    "name": "Dragon Trident of Power",
+    "type": "Trident",
+    "damage_type": "Radiant",
+    "damage_dice": "1d6",
+    "description": "This trident radiates with celestial power, making it divine blessing.",
+    "properties": []
+  },
+  {
+    "name": "Blade of Eternity",
+    "type": "Greatsword",
+    "damage_type": "Nature",
+    "damage_dice": "3d10",
+    "description": "A greatsword of perfect weight, summons spectral allies in battle upon its enemies.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Katana of boundless rage",
+    "type": "Wand",
+    "damage_type": "Nature",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to King Thoran, this wand instills fear in enemies.",
+    "properties": [
+      "Balanced",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Hammer of Dreams",
+    "type": "Crossbow",
+    "damage_type": "Chaos",
+    "damage_dice": "1d4",
+    "description": "This crossbow glows with divine light when wielded with courage.",
+    "properties": []
+  },
+  {
+    "name": "The Mithril Scythe",
+    "type": "Lance",
+    "damage_type": "Force",
+    "damage_dice": "2d8",
+    "description": "Forged in the depths of Elven Glades, this lance seems to predict its wielder's thoughts.",
+    "properties": [
+      "Balanced",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "The Knight's Claymore",
+    "type": "Halberd",
+    "damage_type": "Acid",
+    "damage_dice": "1d12",
+    "description": "Said to have belonged to the Fey Queen, this halberd ignites enemies on contact.",
+    "properties": []
+  },
+  {
+    "name": "Chaos Rapier of Eternity",
+    "type": "Greataxe",
+    "damage_type": "Radiant",
+    "damage_dice": "1d8",
+    "description": "A greataxe of demonic corruption, leaves trails of elemental energy upon its enemies.",
+    "properties": [
+      "Berserker",
+      "Corrupted",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Serpent Scythe",
+    "type": "Greatsword",
+    "damage_type": "Shadow",
+    "damage_dice": "1d6",
+    "description": "Wielded long ago by Lich King Morthus, this greatsword grows stronger with each kill. The weapon seems to absorb light from its surroundings.",
+    "properties": []
+  },
+  {
+    "name": "Greatsword of deadly precision",
+    "type": "Crossbow",
+    "damage_type": "Physical",
+    "damage_dice": "3d10",
+    "description": "This crossbow drains life from those it cuts when in the hands of royalty.",
+    "properties": []
+  },
+  {
+    "name": "Whisper Shortbow of Storms",
+    "type": "Crossbow",
+    "damage_type": "Wind",
+    "damage_dice": "2d10",
+    "description": "Forged in the depths of the Starfall Isles, this crossbow freezes the air around it.",
+    "properties": []
+  },
+  {
+    "name": "Leviathan Axe of Agony",
+    "type": "Saber",
+    "damage_type": "Lightning",
+    "damage_dice": "1d8",
+    "description": "Wielded long ago by Captain Silverhand, this saber freezes foes with a touch.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Hallowed Trident",
+    "type": "Shortbow",
+    "damage_type": "Wind",
+    "damage_dice": "1d8",
+    "description": "A shortbow of unspeakable power, howls with the voices of past victims upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Halberd of Conquest",
+    "type": "Lance",
+    "damage_type": "Arcane",
+    "damage_dice": "2d12",
+    "description": "This lance never requires sharpening when confronting ancient evils.",
+    "properties": []
+  },
+  {
+    "name": "Claymore of the Elements",
+    "type": "Lance",
+    "damage_type": "Nature",
+    "damage_dice": "2d10",
+    "description": "Legend says this lance was recovered from the depths of the sea. It grows in power during the night.",
+    "properties": [
+      "Cursed",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Longsword of deadly precision",
+    "type": "Rapier",
+    "damage_type": "Void",
+    "damage_dice": "2d10",
+    "description": "Legend says this rapier was gifted by a dying wizard. It leaves trails of elemental energy.",
+    "properties": []
+  },
+  {
+    "name": "The Lunar Staff",
+    "type": "Greataxe",
+    "damage_type": "Physical",
+    "damage_dice": "1d12",
+    "description": "Wielded long ago by Warlord Grommash, this greataxe instills fear in enemies.",
+    "properties": []
+  },
+  {
+    "name": "Mystic Falchion of Nightmares",
+    "type": "Shortbow",
+    "damage_type": "Nature",
+    "damage_dice": "3d6",
+    "description": "A shortbow of mysterious origins, leaves wounds that never heal upon its enemies.",
+    "properties": [
+      "Blessed",
+      "Berserker",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Onyx Flail",
+    "type": "Staff",
+    "damage_type": "Chaos",
+    "damage_dice": "1d6",
+    "description": "This staff shifts its form slightly, making it demonic corruption.",
+    "properties": [
+      "Ethereal",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Rapier of incredible durability",
+    "type": "Spear",
+    "damage_type": "Holy",
+    "damage_dice": "3d4",
+    "description": "Oracle Zephyrus's favored spear, known to creates illusions to confuse foes.",
+    "properties": [
+      "Balanced",
+      "Vampiric",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Whisper Shortbow",
+    "type": "Halberd",
+    "damage_type": "Void",
+    "damage_dice": "1d8",
+    "description": "This halberd sends shivers down one's spine, making it deadly precision.",
+    "properties": [
+      "Vampiric",
+      "Enchanted",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "The Ancient Rapier",
+    "type": "Rapier",
+    "damage_type": "Chaos",
+    "damage_dice": "3d6",
+    "description": "This rapier shifts its form slightly, making it boundless rage.",
+    "properties": [
+      "Soulbound",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Onyx Lance of Judgment",
+    "type": "Crossbow",
+    "damage_type": "Blood",
+    "damage_dice": "3d10",
+    "description": "Forged in the depths of the Shadow Realm, this crossbow burns with eternal flames.",
+    "properties": [
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Chaos Flail",
+    "type": "Sword",
+    "damage_type": "Holy",
+    "damage_dice": "2d6",
+    "description": "A sword of unspeakable power, leaves wounds that never heal upon its enemies.",
+    "properties": [
+      "Soulbound",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Shortbow of Despair",
+    "type": "Maul",
+    "damage_type": "Fire",
+    "damage_dice": "2d10",
+    "description": "Legend says this maul was found in an ancient tomb. It drains the magic from spellcasters. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Balanced",
+      "Elemental",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Kraken Greatsword",
+    "type": "Katana",
+    "damage_type": "Blood",
+    "damage_dice": "2d12",
+    "description": "A katana of demonic corruption, drains the magic from spellcasters upon its enemies.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "Mithril Staff of Reckoning",
+    "type": "Whip",
+    "damage_type": "Poison",
+    "damage_dice": "2d8",
+    "description": "Forged in the depths of Celestial Kingdoms, this whip burns with eternal flames.",
+    "properties": [
+      "Spectral",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Sword of Salvation",
+    "type": "Falchion",
+    "damage_type": "Physical",
+    "damage_dice": "3d8",
+    "description": "Forged in the depths of the Abyssal Depths, this falchion hums an ancient melody.",
+    "properties": [
+      "Blessed",
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "The Havoc Greatsword",
+    "type": "Staff",
+    "damage_type": "Poison",
+    "damage_dice": "2d8",
+    "description": "Forged in the depths of Dwarven Underhalls, this staff sends shivers down one's spine.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Greataxe of mysterious origins",
+    "type": "Maul",
+    "damage_type": "Holy",
+    "damage_dice": "1d8",
+    "description": "A maul grown from a magical seed, it binds victims in ghostly chains with every strike.",
+    "properties": [
+      "Balanced",
+      "Sentient",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Longbow of Flames",
+    "type": "Bow",
+    "damage_type": "Chaos",
+    "damage_dice": "2d6",
+    "description": "This bow leaves shadowy trails when swung when wielded with courage.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "The Shadow Halberd",
+    "type": "Wand",
+    "damage_type": "Physical",
+    "damage_dice": "2d8",
+    "description": "Legend says this wand was pulled from the heart of a volcano. It grows in power during the night.",
+    "properties": [
+      "Legendary",
+      "Spectral",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Dagger of Souls",
+    "type": "Pike",
+    "damage_type": "Fire",
+    "damage_dice": "1d10",
+    "description": "This pike freezes the air around it, making it exceptional sharpness. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Scythe of unparalleled balance",
+    "type": "Sword",
+    "damage_type": "Wind",
+    "damage_dice": "1d12",
+    "description": "Legend says this sword was constructed by clockwork gnomes. It summons spectral allies in battle.",
+    "properties": [
+      "Legendary",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Xenith Saber of Twilight",
+    "type": "Dagger",
+    "damage_type": "Ice",
+    "damage_dice": "2d8",
+    "description": "Wielded long ago by Captain Silverhand, this dagger amplifies magical abilities. A thin layer of frost covers the weapon at all times.",
+    "properties": []
+  },
+  {
+    "name": "The Berserker's Claymore",
+    "type": "Mace",
+    "damage_type": "Chaos",
+    "damage_dice": "3d4",
+    "description": "Forged in the depths of the Phoenix Peaks, this mace seems to predict its wielder's thoughts.",
+    "properties": [
+      "Elemental",
+      "Sentient",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Nether Pike",
+    "type": "Longbow",
+    "damage_type": "Lightning",
+    "damage_dice": "2d6",
+    "description": "Forged in the depths of the Astral Plane, this longbow freezes the air around it. Small sparks dance across the surface when wielded.",
+    "properties": []
+  },
+  {
+    "name": "The Umbral Scythe",
+    "type": "Pike",
+    "damage_type": "Chaos",
+    "damage_dice": "2d4",
+    "description": "A pike found in an ancient tomb, it leaves trails of elemental energy with every strike.",
+    "properties": [
+      "Elemental",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Pike of Dreams",
+    "type": "Spear",
+    "damage_type": "Arcane",
+    "damage_dice": "2d6",
+    "description": "Wielded long ago by King Thoran, this spear ignites enemies on contact.",
+    "properties": [
+      "Vampiric",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Gloom Glaive of Dreams",
+    "type": "Trident",
+    "damage_type": "Blood",
+    "damage_dice": "1d12",
+    "description": "Legend says this trident was made from the bones of a god. It heals the wielder with each strike.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Crossbow of ancient wisdom",
+    "type": "Dagger",
+    "damage_type": "Poison",
+    "damage_dice": "2d8",
+    "description": "This dagger hungers for the blood of enemies when under the light of the stars.",
+    "properties": [
+      "Corrupted",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "The Aegis Saber",
+    "type": "Rapier",
+    "damage_type": "Wind",
+    "damage_dice": "1d12",
+    "description": "This rapier shifts its form slightly when in the hands of royalty.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Mithril Rapier of Conquest",
+    "type": "Staff",
+    "damage_type": "Arcane",
+    "damage_dice": "2d8",
+    "description": "Wielded long ago by Captain Silverhand, this staff can cut through any armor.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Trident of demonic corruption",
+    "type": "Crossbow",
+    "damage_type": "Physical",
+    "damage_dice": "1d10",
+    "description": "A crossbow of terrifying presence, causes foes to flee in terror upon its enemies.",
+    "properties": [
+      "Spectral",
+      "Cursed",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Falchion of Reckoning",
+    "type": "Whip",
+    "damage_type": "Void",
+    "damage_dice": "1d12",
+    "description": "This whip hungers for the blood of enemies when during the heat of battle.",
+    "properties": []
+  },
+  {
+    "name": "Staff of unfathomable lightness",
+    "type": "Staff",
+    "damage_type": "Physical",
+    "damage_dice": "3d8",
+    "description": "When facing demons or undead, this staff strikes with the force of lightning.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Hallowed Claymore of the Ancients",
+    "type": "Lance",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d10",
+    "description": "When in the presence of magic, this lance ignites enemies on contact.",
+    "properties": [
+      "Elemental",
+      "Ancient",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Shadow Rapier",
+    "type": "Claymore",
+    "damage_type": "Wind",
+    "damage_dice": "1d6",
+    "description": "Said to have belonged to Emperor Valorian, this claymore grants visions of the future.",
+    "properties": []
+  },
+  {
+    "name": "Halberd of unspeakable power",
+    "type": "Blade",
+    "damage_type": "Nature",
+    "damage_dice": "1d6",
+    "description": "the Last Dragon's favored blade, known to grows in power during the night.",
+    "properties": []
+  },
+  {
+    "name": "Blade of Conquest",
+    "type": "Crossbow",
+    "damage_type": "Acid",
+    "damage_dice": "3d12",
+    "description": "This crossbow vibrates in the presence of evil when held by a true hero.",
+    "properties": [
+      "Legendary",
+      "Blessed",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Dragon Pike",
+    "type": "Maul",
+    "damage_type": "Ice",
+    "damage_dice": "2d6",
+    "description": "the Demon Prince's favored maul, known to marks enemies for hunting. A thin layer of frost covers the weapon at all times.",
+    "properties": []
+  },
+  {
+    "name": "The Eldritch Hammer",
+    "type": "Claymore",
+    "damage_type": "Psychic",
+    "damage_dice": "2d12",
+    "description": "A claymore of unfathomable lightness, howls with the voices of past victims upon its enemies.",
+    "properties": [
+      "Ancient",
+      "Enchanted",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Zephyr Lance",
+    "type": "Wand",
+    "damage_type": "Acid",
+    "damage_dice": "2d12",
+    "description": "When during a storm, this wand can cleave through stone.",
+    "properties": [
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Hallowed Dagger of Conquest",
+    "type": "Staff",
+    "damage_type": "Thunder",
+    "damage_dice": "1d12",
+    "description": "A staff of exceptional sharpness, drains the magic from spellcasters upon its enemies.",
+    "properties": [
+      "Ancient",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Greatsword of Judgment",
+    "type": "Longsword",
+    "damage_type": "Force",
+    "damage_dice": "3d12",
+    "description": "When during the wielder's greatest need, this longsword protects against dark magic.",
+    "properties": []
+  },
+  {
+    "name": "Claymore of perfect weight",
+    "type": "Whip",
+    "damage_type": "Radiant",
+    "damage_dice": "1d10",
+    "description": "Wielded long ago by Archmage Vexus, this whip amplifies magical abilities.",
+    "properties": [
+      "Runic",
+      "Corrupted",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Dread Greatsword",
+    "type": "Sword",
+    "damage_type": "Shadow",
+    "damage_dice": "2d4",
+    "description": "Lich King Morthus's favored sword, known to reveals invisible creatures. The weapon seems to absorb light from its surroundings.",
+    "properties": []
+  },
+  {
+    "name": "Ancient Spear",
+    "type": "Pike",
+    "damage_type": "Ice",
+    "damage_dice": "1d4",
+    "description": "This pike never requires sharpening when in the hands of royalty. A thin layer of frost covers the weapon at all times.",
+    "properties": []
+  },
+  {
+    "name": "Whisper Greatsword of Shadows",
+    "type": "Glaive",
+    "damage_type": "Blood",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to Archmage Vexus, this glaive can cut through any armor.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Knight's Greatsword of Conquest",
+    "type": "Blade",
+    "damage_type": "Wind",
+    "damage_dice": "1d8",
+    "description": "Legend says this blade was carved from a single crystal. It marks enemies for hunting.",
+    "properties": []
+  },
+  {
+    "name": "The Arcane Hammer",
+    "type": "Bow",
+    "damage_type": "Holy",
+    "damage_dice": "1d12",
+    "description": "A bow of divine blessing, absorbs spells cast at the wielder upon its enemies.",
+    "properties": [
+      "Ancient",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Flail of the Cosmos",
+    "type": "Greataxe",
+    "damage_type": "Holy",
+    "damage_dice": "3d6",
+    "description": "This greataxe pulses with arcane energy when facing overwhelming odds.",
+    "properties": [
+      "Berserker",
+      "Ancient",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Longsword of exceptional sharpness",
+    "type": "Mace",
+    "damage_type": "Nature",
+    "damage_dice": "1d6",
+    "description": "A mace carved from a single crystal, it howls with the voices of past victims with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Greataxe of divine blessing",
+    "type": "Halberd",
+    "damage_type": "Nature",
+    "damage_dice": "1d4",
+    "description": "Legend says this halberd was forged in dragon fire. It binds victims in ghostly chains.",
+    "properties": []
+  },
+  {
+    "name": "Maul of perfect weight",
+    "type": "Maul",
+    "damage_type": "Physical",
+    "damage_dice": "1d12",
+    "description": "Forged in the depths of the Abyssal Depths, this maul leaves shadowy trails when swung.",
+    "properties": []
+  },
+  {
+    "name": "The Whisper Rapier",
+    "type": "Longbow",
+    "damage_type": "Fire",
+    "damage_dice": "3d10",
+    "description": "Wielded long ago by the Demon Prince, this longbow freezes foes with a touch.",
+    "properties": []
+  },
+  {
+    "name": "Saber of exceptional sharpness",
+    "type": "Saber",
+    "damage_type": "Ice",
+    "damage_dice": "1d6",
+    "description": "A saber born from the tears of a goddess, it binds victims in ghostly chains with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Berserker's Falchion",
+    "type": "Falchion",
+    "damage_type": "Holy",
+    "damage_dice": "1d10",
+    "description": "A falchion of unfathomable lightness, drains the magic from spellcasters upon its enemies.",
+    "properties": [
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Warden's Blade",
+    "type": "Halberd",
+    "damage_type": "Blood",
+    "damage_dice": "2d12",
+    "description": "This halberd vibrates in the presence of evil when in the presence of magic.",
+    "properties": []
+  },
+  {
+    "name": "Spear of Agony",
+    "type": "Flail",
+    "damage_type": "Void",
+    "damage_dice": "1d10",
+    "description": "Forged in the depths of Dragonheart Caverns, this flail seems to predict its wielder's thoughts.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Havoc Claymore",
+    "type": "Mace",
+    "damage_type": "Void",
+    "damage_dice": "2d10",
+    "description": "This mace drains life from those it cuts when in the presence of magic.",
+    "properties": [
+      "Enchanted",
+      "Vorpal",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Havoc Axe",
+    "type": "Flail",
+    "damage_type": "Holy",
+    "damage_dice": "2d4",
+    "description": "A flail gifted by a dying wizard, it absorbs spells cast at the wielder with every strike.",
+    "properties": [
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Greatsword of Twilight",
+    "type": "Rapier",
+    "damage_type": "Blood",
+    "damage_dice": "1d4",
+    "description": "Said to have belonged to the Demon Prince, this rapier instills fear in enemies.",
+    "properties": [
+      "Legendary"
+    ]
+  },
+  {
+    "name": "The Whisper Claymore",
+    "type": "Staff",
+    "damage_type": "Necrotic",
+    "damage_dice": "1d4",
+    "description": "Legend says this staff was born from the tears of a goddess. It heals the wielder with each strike.",
+    "properties": [
+      "Vorpal",
+      "Enchanted",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Longsword of Light",
+    "type": "Hammer",
+    "damage_type": "Ice",
+    "damage_dice": "2d4",
+    "description": "Legend says this hammer was created by ancient elven smiths. It heals the wielder with each strike.",
+    "properties": [
+      "Mythical",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Gloom Lance of the Fallen",
+    "type": "Rapier",
+    "damage_type": "Acid",
+    "damage_dice": "1d8",
+    "description": "When facing overwhelming odds, this rapier grants visions of the future.",
+    "properties": []
+  },
+  {
+    "name": "Trident of Doom",
+    "type": "Shortbow",
+    "damage_type": "Wind",
+    "damage_dice": "3d12",
+    "description": "When wielded with hatred, this shortbow freezes foes with a touch.",
+    "properties": []
+  },
+  {
+    "name": "Rapier of Shadows",
+    "type": "Mace",
+    "damage_type": "Blood",
+    "damage_dice": "1d6",
+    "description": "This mace drains life from those it cuts when bathed in moonlight.",
+    "properties": []
+  },
+  {
+    "name": "The Mystic Mace",
+    "type": "Blade",
+    "damage_type": "Force",
+    "damage_dice": "2d12",
+    "description": "Said to have belonged to Queen Elyndra, this blade grants visions of the future.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Glaive of Victory",
+    "type": "Whip",
+    "damage_type": "Radiant",
+    "damage_dice": "3d6",
+    "description": "When in complete darkness, this whip emits blinding light on command.",
+    "properties": [
+      "Enchanted",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Mithril Spear of Shadows",
+    "type": "Crossbow",
+    "damage_type": "Blood",
+    "damage_dice": "3d6",
+    "description": "Lich King Morthus's favored crossbow, known to ignites in brilliant flames.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "Ivory Wand",
+    "type": "Axe",
+    "damage_type": "Force",
+    "damage_dice": "1d6",
+    "description": "Wielded long ago by the Dread Pirate Nex, this axe ignites enemies on contact.",
+    "properties": [
+      "Balanced",
+      "Runic",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Quartz Rapier",
+    "type": "Wand",
+    "damage_type": "Thunder",
+    "damage_dice": "1d10",
+    "description": "Said to have belonged to Blacksmith Durin, this wand can cut through any armor.",
+    "properties": [
+      "Sentient",
+      "Mythical",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Saber of exceptional sharpness",
+    "type": "Flail",
+    "damage_type": "Holy",
+    "damage_dice": "1d12",
+    "description": "This flail burns with eternal flames when in complete darkness.",
+    "properties": [
+      "Mythical",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Claymore of the Hunt",
+    "type": "Longbow",
+    "damage_type": "Psychic",
+    "damage_dice": "2d8",
+    "description": "This longbow hums an ancient melody when facing demons or undead.",
+    "properties": [
+      "Cursed",
+      "Vorpal",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Glaive of Flames",
+    "type": "Greataxe",
+    "damage_type": "Lightning",
+    "damage_dice": "2d4",
+    "description": "Forged in the depths of Dragonheart Caverns, this greataxe sends shivers down one's spine. Small sparks dance across the surface when wielded.",
+    "properties": []
+  },
+  {
+    "name": "Mystic Saber",
+    "type": "Claymore",
+    "damage_type": "Poison",
+    "damage_dice": "2d10",
+    "description": "This claymore vibrates in the presence of evil when held by a true hero.",
+    "properties": []
+  },
+  {
+    "name": "The Kraken Katana",
+    "type": "Halberd",
+    "damage_type": "Psychic",
+    "damage_dice": "2d10",
+    "description": "This halberd seems to predict its wielder's thoughts, making it deadly precision.",
+    "properties": [
+      "Balanced",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Feral Flail of the Ancients",
+    "type": "Crossbow",
+    "damage_type": "Arcane",
+    "damage_dice": "3d10",
+    "description": "This crossbow vibrates in the presence of evil when during the heat of battle.",
+    "properties": [
+      "Vampiric",
+      "Enchanted",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Flail of perfect weight",
+    "type": "Spear",
+    "damage_type": "Acid",
+    "damage_dice": "1d12",
+    "description": "the Twilight Assassin's favored spear, known to causes foes to flee in terror.",
+    "properties": []
+  },
+  {
+    "name": "Chaos Halberd",
+    "type": "Scythe",
+    "damage_type": "Fire",
+    "damage_dice": "2d8",
+    "description": "Wielded long ago by the Fey Queen, this scythe reveals hidden enemies. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Greataxe of Destruction",
+    "type": "Greatsword",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d6",
+    "description": "the Demon Prince's favored greatsword, known to absorbs spells cast at the wielder.",
+    "properties": [
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Eldritch Rapier of Salvation",
+    "type": "Longsword",
+    "damage_type": "Fire",
+    "damage_dice": "2d12",
+    "description": "This longsword leaves shadowy trails when swung when under the light of the stars.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Serpent Flail of the Fallen",
+    "type": "Spear",
+    "damage_type": "Holy",
+    "damage_dice": "1d8",
+    "description": "When held by a true hero, this spear can cut through any armor.",
+    "properties": []
+  },
+  {
+    "name": "Havoc Mace",
+    "type": "Trident",
+    "damage_type": "Physical",
+    "damage_dice": "1d10",
+    "description": "Legend says this trident was grown from a magical seed. It binds victims in ghostly chains.",
+    "properties": [
+      "Sentient",
+      "Balanced",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Greataxe of Glory",
+    "type": "Saber",
+    "damage_type": "Ice",
+    "damage_dice": "1d10",
+    "description": "This saber drains life from those it cuts, making it deadly precision. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Runic",
+      "Legendary",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Shadow Hammer",
+    "type": "Maul",
+    "damage_type": "Thunder",
+    "damage_dice": "2d6",
+    "description": "Legend says this maul was constructed by clockwork gnomes. It grows in power during the night.",
+    "properties": [
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Radiant Greataxe",
+    "type": "Axe",
+    "damage_type": "Arcane",
+    "damage_dice": "1d8",
+    "description": "This axe leaves shadowy trails when swung when during the wielder's greatest need.",
+    "properties": [
+      "Sharpened",
+      "Blessed",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Tempest Pike of Power",
+    "type": "Lance",
+    "damage_type": "Void",
+    "damage_dice": "2d8",
+    "description": "This lance leaves shadowy trails when swung, making it unparalleled balance.",
+    "properties": [
+      "Runic",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Oracle Maul",
+    "type": "Pike",
+    "damage_type": "Holy",
+    "damage_dice": "1d8",
+    "description": "Wielded long ago by the Demon Prince, this pike returns to the wielder's hand when thrown.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Ivory Longsword",
+    "type": "Pike",
+    "damage_type": "Wind",
+    "damage_dice": "1d10",
+    "description": "A pike of deadly precision, creates illusions to confuse foes upon its enemies.",
+    "properties": [
+      "Mythical",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Claymore of demonic corruption",
+    "type": "Glaive",
+    "damage_type": "Ice",
+    "damage_dice": "1d8",
+    "description": "Said to have belonged to the Last Dragon, this glaive returns to the wielder's hand when thrown.",
+    "properties": [
+      "Ethereal",
+      "Mythical",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Scythe of royal heritage",
+    "type": "Spear",
+    "damage_type": "Thunder",
+    "damage_dice": "1d12",
+    "description": "Said to have belonged to Archmage Vexus, this spear slows time during combat.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Lunar Greatsword of Souls",
+    "type": "Trident",
+    "damage_type": "Physical",
+    "damage_dice": "1d4",
+    "description": "This trident radiates with celestial power, making it incredible durability.",
+    "properties": [
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Havoc Staff",
+    "type": "Greatsword",
+    "damage_type": "Wind",
+    "damage_dice": "2d6",
+    "description": "This greatsword freezes the air around it when facing demons or undead.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Bow of terrifying presence",
+    "type": "Trident",
+    "damage_type": "Nature",
+    "damage_dice": "1d10",
+    "description": "Legend says this trident was discovered in a hidden shrine. It summons spectral allies in battle.",
+    "properties": [
+      "Berserker",
+      "Vorpal",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "The Shadow Saber",
+    "type": "Pike",
+    "damage_type": "Force",
+    "damage_dice": "1d4",
+    "description": "A pike of royal heritage, reveals invisible creatures upon its enemies.",
+    "properties": [
+      "Runic",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Eldritch Spear",
+    "type": "Dagger",
+    "damage_type": "Force",
+    "damage_dice": "2d6",
+    "description": "This dagger shifts its form slightly when in complete darkness.",
+    "properties": []
+  },
+  {
+    "name": "The Radiant Blade",
+    "type": "Trident",
+    "damage_type": "Blood",
+    "damage_dice": "1d12",
+    "description": "This trident seems to predict its wielder's thoughts, making it boundless rage.",
+    "properties": [
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Maul of Time",
+    "type": "Wand",
+    "damage_type": "Nature",
+    "damage_dice": "3d10",
+    "description": "Said to have belonged to the Demon Prince, this wand returns to the wielder's hand when thrown.",
+    "properties": [
+      "Runic",
+      "Corrupted",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Nova Maul of Doom",
+    "type": "Glaive",
+    "damage_type": "Holy",
+    "damage_dice": "3d8",
+    "description": "Legend says this glaive was stolen from the armory of demons. It drains the magic from spellcasters.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Lance of boundless rage",
+    "type": "Trident",
+    "damage_type": "Acid",
+    "damage_dice": "3d8",
+    "description": "A trident of deadly precision, binds victims in ghostly chains upon its enemies.",
+    "properties": [
+      "Spectral",
+      "Blessed",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "The Phantom Hammer",
+    "type": "Trident",
+    "damage_type": "Holy",
+    "damage_dice": "1d12",
+    "description": "Forged in the depths of the Shadow Realm, this trident sends shivers down one's spine.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Zephyr Lance",
+    "type": "Spear",
+    "damage_type": "Radiant",
+    "damage_dice": "2d10",
+    "description": "Wielded long ago by King Thoran, this spear reveals hidden enemies.",
+    "properties": [
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Shadow Longsword of the Ancients",
+    "type": "Falchion",
+    "damage_type": "Psychic",
+    "damage_dice": "2d4",
+    "description": "Wielded long ago by the Last Dragon, this falchion ignites enemies on contact.",
+    "properties": [
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Flail of Reckoning",
+    "type": "Lance",
+    "damage_type": "Arcane",
+    "damage_dice": "2d6",
+    "description": "This lance leaves shadowy trails when swung, making it unfathomable lightness.",
+    "properties": [
+      "Enchanted",
+      "Ethereal",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Ghost Greataxe",
+    "type": "Greataxe",
+    "damage_type": "Lightning",
+    "damage_dice": "3d6",
+    "description": "Legend says this greataxe was grown from a magical seed. It creates illusions to confuse foes. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Bow of Flames",
+    "type": "Hammer",
+    "damage_type": "Arcane",
+    "damage_dice": "1d10",
+    "description": "Forged in the depths of the Abyssal Depths, this hammer radiates with celestial power.",
+    "properties": [
+      "Legendary",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Infernal Saber",
+    "type": "Rapier",
+    "damage_type": "Chaos",
+    "damage_dice": "1d8",
+    "description": "Forged in the depths of the Eternal Forge, this rapier never requires sharpening.",
+    "properties": [
+      "Balanced",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Frost Axe",
+    "type": "Crossbow",
+    "damage_type": "Necrotic",
+    "damage_dice": "3d6",
+    "description": "Legend says this crossbow was pulled from the heart of a volcano. It ignites in brilliant flames.",
+    "properties": []
+  },
+  {
+    "name": "Blazing Katana of the Ancients",
+    "type": "Hammer",
+    "damage_type": "Void",
+    "damage_dice": "2d6",
+    "description": "This hammer feels impossibly light when during the heat of battle.",
+    "properties": []
+  },
+  {
+    "name": "Mace of terrifying presence",
+    "type": "Crossbow",
+    "damage_type": "Thunder",
+    "damage_dice": "2d12",
+    "description": "Wielded long ago by High Priestess Lunara, this crossbow can cleave through stone.",
+    "properties": [
+      "Corrupted",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Pike of Frost",
+    "type": "Bow",
+    "damage_type": "Thunder",
+    "damage_dice": "1d8",
+    "description": "Legend says this bow was pulled from the heart of a volcano. It cleaves through reality itself.",
+    "properties": []
+  },
+  {
+    "name": "Longbow of mysterious origins",
+    "type": "Dagger",
+    "damage_type": "Radiant",
+    "damage_dice": "1d10",
+    "description": "Legend says this dagger was born from the tears of a goddess. It howls with the voices of past victims.",
+    "properties": []
+  },
+  {
+    "name": "Greataxe of the Void",
+    "type": "Trident",
+    "damage_type": "Necrotic",
+    "damage_dice": "3d6",
+    "description": "Wielded long ago by Archmage Vexus, this trident can cut through any armor.",
+    "properties": []
+  },
+  {
+    "name": "Hammer of the Ancients",
+    "type": "Greatsword",
+    "damage_type": "Radiant",
+    "damage_dice": "3d12",
+    "description": "Said to have belonged to Emperor Valorian, this greatsword emits blinding light on command.",
+    "properties": []
+  },
+  {
+    "name": "Thunder Whip",
+    "type": "Rapier",
+    "damage_type": "Wind",
+    "damage_dice": "2d10",
+    "description": "Legend says this rapier was forged in dragon fire. It grows in power during the night.",
+    "properties": [
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Blazing Flail of the Fallen",
+    "type": "Glaive",
+    "damage_type": "Psychic",
+    "damage_dice": "2d12",
+    "description": "Wielded long ago by King Thoran, this glaive reveals hidden enemies.",
+    "properties": [
+      "Mythical",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "The Arcane Longbow",
+    "type": "Rapier",
+    "damage_type": "Nature",
+    "damage_dice": "3d4",
+    "description": "A rapier carved from a single crystal, it heals the wielder with each strike with every strike.",
+    "properties": [
+      "Elemental",
+      "Spectral",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Dagger of perfect weight",
+    "type": "Glaive",
+    "damage_type": "Wind",
+    "damage_dice": "3d10",
+    "description": "This glaive drains life from those it cuts, making it unfathomable lightness.",
+    "properties": [
+      "Balanced",
+      "Legendary",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Saber of Glory",
+    "type": "Flail",
+    "damage_type": "Arcane",
+    "damage_dice": "2d4",
+    "description": "When confronting ancient evils, this flail reveals hidden enemies.",
+    "properties": []
+  },
+  {
+    "name": "Claymore of ancient wisdom",
+    "type": "Flail",
+    "damage_type": "Physical",
+    "damage_dice": "3d4",
+    "description": "This flail drains life from those it cuts when during the heat of battle.",
+    "properties": [
+      "Berserker",
+      "Ethereal",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Greataxe of Doom",
+    "type": "Bow",
+    "damage_type": "Chaos",
+    "damage_dice": "1d8",
+    "description": "A bow of deadly precision, heals the wielder with each strike upon its enemies.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "Axe of perfect weight",
+    "type": "Shortbow",
+    "damage_type": "Nature",
+    "damage_dice": "3d8",
+    "description": "Wielded long ago by the Last Dragon, this shortbow binds the souls of those it slays.",
+    "properties": []
+  },
+  {
+    "name": "The Blazing Pike",
+    "type": "Blade",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d8",
+    "description": "When in complete darkness, this blade reveals hidden enemies.",
+    "properties": [
+      "Balanced",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Greatsword of Shadows",
+    "type": "Saber",
+    "damage_type": "Wind",
+    "damage_dice": "1d8",
+    "description": "the Last Dragon's favored saber, known to reveals invisible creatures.",
+    "properties": [
+      "Corrupted",
+      "Enchanted",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Mace of the Void",
+    "type": "Pike",
+    "damage_type": "Lightning",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to Blacksmith Durin, this pike protects against dark magic.",
+    "properties": [
+      "Blessed",
+      "Corrupted",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Saber of incredible durability",
+    "type": "Shortbow",
+    "damage_type": "Physical",
+    "damage_dice": "2d10",
+    "description": "A shortbow of ancient wisdom, disrupts magical barriers upon its enemies.",
+    "properties": [
+      "Sentient",
+      "Berserker",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Jade Hammer",
+    "type": "Maul",
+    "damage_type": "Fire",
+    "damage_dice": "2d10",
+    "description": "the Twilight Assassin's favored maul, known to absorbs spells cast at the wielder. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": []
+  },
+  {
+    "name": "The Xenith Rapier",
+    "type": "Rapier",
+    "damage_type": "Necrotic",
+    "damage_dice": "1d6",
+    "description": "Forged in the depths of the Emerald Valley, this rapier burns with eternal flames.",
+    "properties": []
+  },
+  {
+    "name": "Saber of unfathomable lightness",
+    "type": "Halberd",
+    "damage_type": "Nature",
+    "damage_dice": "2d12",
+    "description": "Wielded long ago by the Dread Pirate Nex, this halberd never misses its target.",
+    "properties": [
+      "Ancient",
+      "Vorpal",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Lunar Rapier of Shadows",
+    "type": "Sword",
+    "damage_type": "Wind",
+    "damage_dice": "3d4",
+    "description": "Forged in the depths of the Shadow Realm, this sword vibrates in the presence of evil.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "Crossbow of royal heritage",
+    "type": "Maul",
+    "damage_type": "Necrotic",
+    "damage_dice": "3d4",
+    "description": "Said to have belonged to Queen Elyndra, this maul returns to the wielder's hand when thrown.",
+    "properties": [
+      "Ancient",
+      "Vorpal",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Nova Rapier",
+    "type": "Lance",
+    "damage_type": "Fire",
+    "damage_dice": "3d12",
+    "description": "When under the light of the stars, this lance freezes foes with a touch. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Runic",
+      "Spectral",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Bow of Despair",
+    "type": "Longbow",
+    "damage_type": "Physical",
+    "damage_dice": "1d8",
+    "description": "Forged in the depths of the Shadow Realm, this longbow leaves shadowy trails when swung.",
+    "properties": [
+      "Sentient",
+      "Ancient",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Serpent Greatsword",
+    "type": "Rapier",
+    "damage_type": "Chaos",
+    "damage_dice": "2d6",
+    "description": "A rapier of boundless rage, grows in power during the night upon its enemies.",
+    "properties": [
+      "Soulbound",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Wand of boundless rage",
+    "type": "Trident",
+    "damage_type": "Ice",
+    "damage_dice": "3d4",
+    "description": "This trident vibrates in the presence of evil, making it perfect weight. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Elemental",
+      "Ancient",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Rapier of incredible durability",
+    "type": "Longsword",
+    "damage_type": "Poison",
+    "damage_dice": "1d10",
+    "description": "Said to have belonged to Blacksmith Durin, this longsword binds the souls of those it slays.",
+    "properties": [
+      "Elemental",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Undying Hammer of Flames",
+    "type": "Longbow",
+    "damage_type": "Thunder",
+    "damage_dice": "3d4",
+    "description": "the Twilight Assassin's favored longbow, known to disrupts magical barriers.",
+    "properties": [
+      "Enchanted",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "The Kraken Blade",
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "damage_dice": "2d6",
+    "description": "Blacksmith Durin's favored dagger, known to summons spectral allies in battle.",
+    "properties": []
+  },
+  {
+    "name": "Shortbow of the Void",
+    "type": "Bow",
+    "damage_type": "Void",
+    "damage_dice": "2d6",
+    "description": "Forged in the depths of the Abyssal Depths, this bow vibrates in the presence of evil.",
+    "properties": []
+  },
+  {
+    "name": "Ghost Blade",
+    "type": "Pike",
+    "damage_type": "Wind",
+    "damage_dice": "3d6",
+    "description": "Legend says this pike was constructed by clockwork gnomes. It marks enemies for hunting.",
+    "properties": [
+      "Spectral",
+      "Corrupted",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Thunder Rapier of Eternity",
+    "type": "Glaive",
+    "damage_type": "Acid",
+    "damage_dice": "3d4",
+    "description": "Archmage Vexus's favored glaive, known to ignites in brilliant flames.",
+    "properties": [
+      "Berserker",
+      "Runic",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Flail of Darkness",
+    "type": "Whip",
+    "damage_type": "Acid",
+    "damage_dice": "1d6",
+    "description": "This whip hums an ancient melody when held by a true hero.",
+    "properties": [
+      "Ancient",
+      "Enchanted",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Whip of Frost",
+    "type": "Falchion",
+    "damage_type": "Arcane",
+    "damage_dice": "1d8",
+    "description": "A falchion of terrifying presence, summons spectral allies in battle upon its enemies.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Glaive of terrifying presence",
+    "type": "Axe",
+    "damage_type": "Nature",
+    "damage_dice": "3d6",
+    "description": "A axe of unfathomable lightness, grows in power during the night upon its enemies.",
+    "properties": [
+      "Vorpal",
+      "Runic"
+    ]
+  },
+  {
+    "name": "The Ivory Bow",
+    "type": "Crossbow",
+    "damage_type": "Void",
+    "damage_dice": "1d8",
+    "description": "This crossbow never requires sharpening when facing demons or undead.",
+    "properties": [
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Infernal Pike",
+    "type": "Bow",
+    "damage_type": "Psychic",
+    "damage_dice": "3d8",
+    "description": "When bathed in moonlight, this bow instills fear in enemies.",
+    "properties": [
+      "Ancient",
+      "Ethereal",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Jade Blade",
+    "type": "Falchion",
+    "damage_type": "Void",
+    "damage_dice": "1d6",
+    "description": "A falchion of royal heritage, cleaves through reality itself upon its enemies.",
+    "properties": [
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Gloom Wand",
+    "type": "Falchion",
+    "damage_type": "Thunder",
+    "damage_dice": "3d12",
+    "description": "When during a storm, this falchion returns to the wielder's hand when thrown.",
+    "properties": []
+  },
+  {
+    "name": "Axe of Doom",
+    "type": "Axe",
+    "damage_type": "Void",
+    "damage_dice": "3d8",
+    "description": "Said to have belonged to Oracle Zephyrus, this axe strikes with the force of lightning.",
+    "properties": []
+  },
+  {
+    "name": "Havoc Lance of the Abyss",
+    "type": "Bow",
+    "damage_type": "Radiant",
+    "damage_dice": "3d10",
+    "description": "A bow of divine blessing, grows in power during the night upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Wand of Glory",
+    "type": "Katana",
+    "damage_type": "Lightning",
+    "damage_dice": "3d8",
+    "description": "Legend says this katana was created by ancient elven smiths. It leaves trails of elemental energy. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Vampiric",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Greataxe of Frost",
+    "type": "Katana",
+    "damage_type": "Psychic",
+    "damage_dice": "1d8",
+    "description": "Wielded long ago by King Thoran, this katana can cut through any armor.",
+    "properties": [
+      "Vampiric",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Mystic Mace",
+    "type": "Maul",
+    "damage_type": "Holy",
+    "damage_dice": "1d12",
+    "description": "A maul made from the bones of a god, it leaves wounds that never heal with every strike.",
+    "properties": [
+      "Mythical",
+      "Enchanted",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Radiant Pike of the Elements",
+    "type": "Staff",
+    "damage_type": "Poison",
+    "damage_dice": "2d8",
+    "description": "A staff constructed by clockwork gnomes, it leaves trails of elemental energy with every strike.",
+    "properties": [
+      "Cursed",
+      "Sentient",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Claymore of haunting beauty",
+    "type": "Dagger",
+    "damage_type": "Thunder",
+    "damage_dice": "1d10",
+    "description": "Wielded long ago by Archmage Vexus, this dagger emits blinding light on command.",
+    "properties": []
+  },
+  {
+    "name": "Rapier of divine blessing",
+    "type": "Halberd",
+    "damage_type": "Blood",
+    "damage_dice": "1d8",
+    "description": "the Fey Queen's favored halberd, known to leaves wounds that never heal.",
+    "properties": [
+      "Ancient",
+      "Sharpened",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Frost Whip of Dreams",
+    "type": "Pike",
+    "damage_type": "Holy",
+    "damage_dice": "1d12",
+    "description": "Queen Elyndra's favored pike, known to heals the wielder with each strike.",
+    "properties": [
+      "Legendary",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Claymore of boundless rage",
+    "type": "Spear",
+    "damage_type": "Shadow",
+    "damage_dice": "3d12",
+    "description": "This spear radiates with celestial power when during the wielder's greatest need. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Tempest Katana",
+    "type": "Longbow",
+    "damage_type": "Ice",
+    "damage_dice": "1d4",
+    "description": "Said to have belonged to Blacksmith Durin, this longbow instills fear in enemies.",
+    "properties": [
+      "Ethereal",
+      "Elemental",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Blazing Longbow of Doom",
+    "type": "Wand",
+    "damage_type": "Radiant",
+    "damage_dice": "2d10",
+    "description": "Legend says this wand was pulled from the heart of a volcano. It causes foes to flee in terror.",
+    "properties": [
+      "Mythical",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Jinx Longsword of Storms",
+    "type": "Greataxe",
+    "damage_type": "Physical",
+    "damage_dice": "3d12",
+    "description": "Forged in the depths of the Frozen Wastes, this greataxe burns with eternal flames.",
+    "properties": [
+      "Sentient",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Staff of royal heritage",
+    "type": "Whip",
+    "damage_type": "Thunder",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to High Priestess Lunara, this whip instills fear in enemies.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Saber of Glory",
+    "type": "Glaive",
+    "damage_type": "Holy",
+    "damage_dice": "2d6",
+    "description": "the Twilight Assassin's favored glaive, known to cleaves through reality itself.",
+    "properties": [
+      "Soulbound",
+      "Mythical",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Knight's Sword",
+    "type": "Mace",
+    "damage_type": "Thunder",
+    "damage_dice": "3d8",
+    "description": "A mace of terrifying presence, ignites in brilliant flames upon its enemies.",
+    "properties": [
+      "Spectral",
+      "Corrupted",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Flail of unspeakable power",
+    "type": "Claymore",
+    "damage_type": "Holy",
+    "damage_dice": "1d4",
+    "description": "A claymore gifted by a dying wizard, it summons spectral allies in battle with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Longsword of deadly precision",
+    "type": "Claymore",
+    "damage_type": "Psychic",
+    "damage_dice": "3d4",
+    "description": "Legend says this claymore was carved from a single crystal. It leaves trails of elemental energy.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "The Nova Spear",
+    "type": "Saber",
+    "damage_type": "Blood",
+    "damage_dice": "3d8",
+    "description": "Wielded long ago by the Twilight Assassin, this saber emits blinding light on command.",
+    "properties": []
+  },
+  {
+    "name": "Gloom Greataxe of the Abyss",
+    "type": "Axe",
+    "damage_type": "Wind",
+    "damage_dice": "2d8",
+    "description": "Legend says this axe was stolen from the armory of demons. It marks enemies for hunting.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Crossbow of exceptional sharpness",
+    "type": "Trident",
+    "damage_type": "Radiant",
+    "damage_dice": "3d10",
+    "description": "This trident feels impossibly light, making it ancient wisdom.",
+    "properties": [
+      "Elemental"
+    ]
+  },
+  {
+    "name": "The Lunar Trident",
+    "type": "Katana",
+    "damage_type": "Nature",
+    "damage_dice": "3d12",
+    "description": "Forged in the depths of Kraken's Deep, this katana freezes the air around it.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "The Frost Trident",
+    "type": "Blade",
+    "damage_type": "Chaos",
+    "damage_dice": "1d4",
+    "description": "This blade burns with eternal flames when during the heat of battle.",
+    "properties": [
+      "Balanced"
+    ]
+  },
+  {
+    "name": "The Frost Axe",
+    "type": "Whip",
+    "damage_type": "Psychic",
+    "damage_dice": "3d12",
+    "description": "A whip of divine blessing, drains the magic from spellcasters upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Crossbow of divine blessing",
+    "type": "Staff",
+    "damage_type": "Acid",
+    "damage_dice": "3d10",
+    "description": "A staff recovered from the depths of the sea, it absorbs spells cast at the wielder with every strike.",
+    "properties": [
+      "Mythical",
+      "Berserker",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Bow of terrifying presence",
+    "type": "Halberd",
+    "damage_type": "Chaos",
+    "damage_dice": "1d6",
+    "description": "Forged in the depths of the Abyssal Depths, this halberd whispers dark secrets.",
+    "properties": [
+      "Ethereal",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Lance of the Ancients",
+    "type": "Longsword",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d4",
+    "description": "Legend says this longsword was born from the tears of a goddess. It marks enemies for hunting.",
+    "properties": []
+  },
+  {
+    "name": "Shadow Longbow of the Eclipse",
+    "type": "Rapier",
+    "damage_type": "Arcane",
+    "damage_dice": "2d6",
+    "description": "Forged in the depths of the Astral Plane, this rapier seems to predict its wielder's thoughts.",
+    "properties": [
+      "Balanced",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Oracle Bow of Destruction",
+    "type": "Wand",
+    "damage_type": "Fire",
+    "damage_dice": "1d10",
+    "description": "Forged in the depths of the Astral Plane, this wand feels impossibly light.",
+    "properties": [
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "The Arcane Flail",
+    "type": "Trident",
+    "damage_type": "Arcane",
+    "damage_dice": "3d6",
+    "description": "This trident hums an ancient melody, making it unparalleled balance.",
+    "properties": [
+      "Cursed"
+    ]
+  },
+  {
+    "name": "The Knight's Saber",
+    "type": "Axe",
+    "damage_type": "Nature",
+    "damage_dice": "3d10",
+    "description": "A axe of perfect weight, summons spectral allies in battle upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Spear of Salvation",
+    "type": "Blade",
+    "damage_type": "Chaos",
+    "damage_dice": "3d8",
+    "description": "A blade of exceptional sharpness, reveals invisible creatures upon its enemies.",
+    "properties": [
+      "Blessed",
+      "Corrupted",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Mace of exceptional sharpness",
+    "type": "Axe",
+    "damage_type": "Radiant",
+    "damage_dice": "3d8",
+    "description": "A axe of terrifying presence, ignites in brilliant flames upon its enemies.",
+    "properties": [
+      "Mythical",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Glaive of terrifying presence",
+    "type": "Sword",
+    "damage_type": "Thunder",
+    "damage_dice": "3d10",
+    "description": "A sword of exceptional sharpness, howls with the voices of past victims upon its enemies.",
+    "properties": [
+      "Legendary",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "The Mystic Lance",
+    "type": "Longsword",
+    "damage_type": "Radiant",
+    "damage_dice": "2d8",
+    "description": "Legend says this longsword was stolen from the armory of demons. It summons spectral allies in battle.",
+    "properties": [
+      "Runic",
+      "Legendary"
+    ]
+  },
+  {
+    "name": "Vortex Blade",
+    "type": "Shortbow",
+    "damage_type": "Ice",
+    "damage_dice": "1d6",
+    "description": "Legend says this shortbow was carved from a single crystal. It marks enemies for hunting. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Elemental",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Shortbow of terrifying presence",
+    "type": "Shortbow",
+    "damage_type": "Necrotic",
+    "damage_dice": "3d10",
+    "description": "Forged in the depths of the Frozen Wastes, this shortbow burns with eternal flames.",
+    "properties": [
+      "Corrupted",
+      "Mythical",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "The Lunar Shortbow",
+    "type": "Greatsword",
+    "damage_type": "Nature",
+    "damage_dice": "2d6",
+    "description": "This greatsword freezes the air around it when facing overwhelming odds.",
+    "properties": [
+      "Cursed",
+      "Enchanted",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "The Hallowed Longsword",
+    "type": "Longbow",
+    "damage_type": "Blood",
+    "damage_dice": "1d12",
+    "description": "Wielded long ago by the Last Dragon, this longbow never misses its target.",
+    "properties": [
+      "Mythical",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Quartz Axe",
+    "type": "Trident",
+    "damage_type": "Shadow",
+    "damage_dice": "2d10",
+    "description": "A trident of mysterious origins, heals the wielder with each strike upon its enemies. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Ethereal",
+      "Balanced",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Warden's Halberd of Flames",
+    "type": "Wand",
+    "damage_type": "Holy",
+    "damage_dice": "3d10",
+    "description": "Queen Elyndra's favored wand, known to absorbs spells cast at the wielder.",
+    "properties": [
+      "Enchanted",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Greataxe of Shadows",
+    "type": "Spear",
+    "damage_type": "Shadow",
+    "damage_dice": "3d6",
+    "description": "Wielded long ago by the Twilight Assassin, this spear grants visions of the future. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Vortex Greatsword of Light",
+    "type": "Sword",
+    "damage_type": "Nature",
+    "damage_dice": "3d4",
+    "description": "A sword made from the bones of a god, it reveals invisible creatures with every strike.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "The Havoc Bow",
+    "type": "Longbow",
+    "damage_type": "Chaos",
+    "damage_dice": "1d12",
+    "description": "Legend says this longbow was created by ancient elven smiths. It heals the wielder with each strike.",
+    "properties": []
+  },
+  {
+    "name": "Dagger of Conquest",
+    "type": "Halberd",
+    "damage_type": "Psychic",
+    "damage_dice": "3d12",
+    "description": "This halberd leaves shadowy trails when swung when wielded with courage.",
+    "properties": [
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Mace of the Elements",
+    "type": "Falchion",
+    "damage_type": "Ice",
+    "damage_dice": "1d10",
+    "description": "A falchion grown from a magical seed, it binds victims in ghostly chains with every strike. A thin layer of frost covers the weapon at all times.",
+    "properties": []
+  },
+  {
+    "name": "Trident of demonic corruption",
+    "type": "Hammer",
+    "damage_type": "Acid",
+    "damage_dice": "2d10",
+    "description": "A hammer made from the bones of a god, it creates illusions to confuse foes with every strike.",
+    "properties": [
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Quicksilver Falchion of Despair",
+    "type": "Flail",
+    "damage_type": "Void",
+    "damage_dice": "1d12",
+    "description": "Legend says this flail was crafted from a fallen star. It cleaves through reality itself.",
+    "properties": [
+      "Vampiric",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Warden's Falchion",
+    "type": "Pike",
+    "damage_type": "Chaos",
+    "damage_dice": "2d4",
+    "description": "King Thoran's favored pike, known to reveals invisible creatures.",
+    "properties": [
+      "Ancient",
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Crossbow of demonic corruption",
+    "type": "Greatsword",
+    "damage_type": "Blood",
+    "damage_dice": "2d12",
+    "description": "Forged in the depths of Celestial Kingdoms, this greatsword whispers dark secrets.",
+    "properties": []
+  },
+  {
+    "name": "Onyx Halberd",
+    "type": "Sword",
+    "damage_type": "Psychic",
+    "damage_dice": "2d8",
+    "description": "A sword of demonic corruption, grows in power during the night upon its enemies.",
+    "properties": [
+      "Cursed",
+      "Enchanted",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Lunar Scythe",
+    "type": "Rapier",
+    "damage_type": "Acid",
+    "damage_dice": "3d8",
+    "description": "This rapier shifts its form slightly when bathed in moonlight.",
+    "properties": [
+      "Vorpal",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "The Tempest Glaive",
+    "type": "Glaive",
+    "damage_type": "Chaos",
+    "damage_dice": "1d6",
+    "description": "the Demon Prince's favored glaive, known to leaves trails of elemental energy.",
+    "properties": []
+  },
+  {
+    "name": "The Undying Glaive",
+    "type": "Trident",
+    "damage_type": "Ice",
+    "damage_dice": "3d8",
+    "description": "When facing demons or undead, this trident binds the souls of those it slays. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Oracle Maul",
+    "type": "Wand",
+    "damage_type": "Radiant",
+    "damage_dice": "3d4",
+    "description": "When during a storm, this wand ignites enemies on contact.",
+    "properties": [
+      "Balanced",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Onyx Katana",
+    "type": "Staff",
+    "damage_type": "Fire",
+    "damage_dice": "3d12",
+    "description": "This staff hums an ancient melody, making it unparalleled balance. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Ethereal",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "The Celestial Flail",
+    "type": "Mace",
+    "damage_type": "Radiant",
+    "damage_dice": "3d6",
+    "description": "A mace of unspeakable power, howls with the voices of past victims upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Longsword of Vengeance",
+    "type": "Bow",
+    "damage_type": "Holy",
+    "damage_dice": "3d12",
+    "description": "A bow of boundless rage, disrupts magical barriers upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Staff of haunting beauty",
+    "type": "Katana",
+    "damage_type": "Thunder",
+    "damage_dice": "3d8",
+    "description": "A katana recovered from the depths of the sea, it causes foes to flee in terror with every strike.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Dragon Spear",
+    "type": "Bow",
+    "damage_type": "Blood",
+    "damage_dice": "3d12",
+    "description": "This bow radiates with celestial power when wielded by one of pure heart.",
+    "properties": [
+      "Enchanted",
+      "Elemental"
+    ]
+  },
+  {
+    "name": "Shadow Dagger of the Abyss",
+    "type": "Spear",
+    "damage_type": "Void",
+    "damage_dice": "2d10",
+    "description": "This spear leaves shadowy trails when swung when wielded with hatred.",
+    "properties": [
+      "Soulbound",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Thunder Crossbow of Glory",
+    "type": "Blade",
+    "damage_type": "Acid",
+    "damage_dice": "1d6",
+    "description": "Forged in the depths of the Frozen Wastes, this blade glows with divine light.",
+    "properties": [
+      "Mythical",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "Yttrium Crossbow",
+    "type": "Katana",
+    "damage_type": "Shadow",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to the Demon Prince, this katana never misses its target.",
+    "properties": [
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Katana of boundless rage",
+    "type": "Halberd",
+    "damage_type": "Necrotic",
+    "damage_dice": "3d10",
+    "description": "A halberd assembled during a celestial alignment, it reveals invisible creatures with every strike.",
+    "properties": [
+      "Sentient",
+      "Ethereal",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Infernal Pike",
+    "type": "Hammer",
+    "damage_type": "Fire",
+    "damage_dice": "2d6",
+    "description": "A hammer assembled during a celestial alignment, it leaves trails of elemental energy with every strike. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Soulbound",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Rapier of perfect weight",
+    "type": "Flail",
+    "damage_type": "Physical",
+    "damage_dice": "2d12",
+    "description": "This flail drains life from those it cuts, making it perfect weight.",
+    "properties": [
+      "Runic"
+    ]
+  },
+  {
+    "name": "Nether Scythe",
+    "type": "Blade",
+    "damage_type": "Physical",
+    "damage_dice": "1d12",
+    "description": "This blade radiates with celestial power, making it perfect weight.",
+    "properties": []
+  },
+  {
+    "name": "Aegis Flail",
+    "type": "Claymore",
+    "damage_type": "Acid",
+    "damage_dice": "1d10",
+    "description": "This claymore whispers dark secrets when wielded with courage.",
+    "properties": [
+      "Elemental",
+      "Legendary",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Glaive of haunting beauty",
+    "type": "Blade",
+    "damage_type": "Fire",
+    "damage_dice": "1d10",
+    "description": "the Dread Pirate Nex's favored blade, known to drains the magic from spellcasters. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "Lance of Judgment",
+    "type": "Falchion",
+    "damage_type": "Psychic",
+    "damage_dice": "3d6",
+    "description": "When wielded with courage, this falchion never misses its target.",
+    "properties": [
+      "Sharpened",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Radiant Falchion of Doom",
+    "type": "Claymore",
+    "damage_type": "Force",
+    "damage_dice": "3d6",
+    "description": "When bathed in moonlight, this claymore reveals hidden enemies.",
+    "properties": [
+      "Balanced",
+      "Runic"
+    ]
+  },
+  {
+    "name": "Venom Longsword",
+    "type": "Greataxe",
+    "damage_type": "Ice",
+    "damage_dice": "1d8",
+    "description": "Legend says this greataxe was grown from a magical seed. It absorbs spells cast at the wielder. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Enchanted",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Phantom Pike of Light",
+    "type": "Sword",
+    "damage_type": "Force",
+    "damage_dice": "3d6",
+    "description": "Forged in the depths of the Frozen Wastes, this sword sends shivers down one's spine.",
+    "properties": [
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Bow of boundless rage",
+    "type": "Lance",
+    "damage_type": "Ice",
+    "damage_dice": "2d8",
+    "description": "Said to have belonged to Captain Silverhand, this lance freezes foes with a touch. A thin layer of frost covers the weapon at all times.",
+    "properties": [
+      "Ethereal",
+      "Ancient",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Undying Halberd of Oblivion",
+    "type": "Glaive",
+    "damage_type": "Shadow",
+    "damage_dice": "2d12",
+    "description": "A glaive of boundless rage, binds victims in ghostly chains upon its enemies.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Quicksilver Lance",
+    "type": "Falchion",
+    "damage_type": "Psychic",
+    "damage_dice": "3d4",
+    "description": "This falchion freezes the air around it when in the presence of magic.",
+    "properties": [
+      "Runic",
+      "Blessed",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Lance of Conquest",
+    "type": "Scythe",
+    "damage_type": "Lightning",
+    "damage_dice": "1d10",
+    "description": "Wielded long ago by King Thoran, this scythe strikes with the force of lightning. Small sparks dance across the surface when wielded.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Glaive of the Elements",
+    "type": "Glaive",
+    "damage_type": "Arcane",
+    "damage_dice": "2d4",
+    "description": "Legend says this glaive was stolen from the armory of demons. It leaves trails of elemental energy.",
+    "properties": [
+      "Ethereal",
+      "Legendary",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Radiant Scythe",
+    "type": "Bow",
+    "damage_type": "Acid",
+    "damage_dice": "1d4",
+    "description": "When wielded by one of pure heart, this bow amplifies magical abilities.",
+    "properties": [
+      "Elemental",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Spear of Salvation",
+    "type": "Crossbow",
+    "damage_type": "Physical",
+    "damage_dice": "1d6",
+    "description": "Forged in the depths of Elven Glades, this crossbow glows with divine light.",
+    "properties": [
+      "Enchanted",
+      "Sentient",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Spear of Eternity",
+    "type": "Bow",
+    "damage_type": "Shadow",
+    "damage_dice": "1d8",
+    "description": "This bow seems to predict its wielder's thoughts when wielded by one of pure heart. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Mythical",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Berserker's Katana",
+    "type": "Hammer",
+    "damage_type": "Fire",
+    "damage_dice": "1d8",
+    "description": "Said to have belonged to Emperor Valorian, this hammer ignites enemies on contact. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Runic",
+      "Enchanted"
+    ]
+  },
+  {
+    "name": "The Blazing Pike",
+    "type": "Wand",
+    "damage_type": "Arcane",
+    "damage_dice": "1d12",
+    "description": "This wand glows with divine light, making it terrifying presence.",
+    "properties": []
+  },
+  {
+    "name": "Mithril Scythe",
+    "type": "Rapier",
+    "damage_type": "Holy",
+    "damage_dice": "2d8",
+    "description": "Wielded long ago by Captain Silverhand, this rapier emits blinding light on command.",
+    "properties": [
+      "Sentient",
+      "Mythical",
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "The Tempest Axe",
+    "type": "Falchion",
+    "damage_type": "Lightning",
+    "damage_dice": "2d12",
+    "description": "When facing overwhelming odds, this falchion binds the souls of those it slays. Small sparks dance across the surface when wielded.",
+    "properties": []
+  },
+  {
+    "name": "The Jade Wand",
+    "type": "Claymore",
+    "damage_type": "Blood",
+    "damage_dice": "2d8",
+    "description": "Forged in the depths of the Eternal Forge, this claymore never requires sharpening.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "The Undying Sword",
+    "type": "Scythe",
+    "damage_type": "Blood",
+    "damage_dice": "3d4",
+    "description": "Forged in the depths of Dragonheart Caverns, this scythe seems to predict its wielder's thoughts.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Flail of Frost",
+    "type": "Bow",
+    "damage_type": "Radiant",
+    "damage_dice": "2d10",
+    "description": "This bow glows with divine light when in complete darkness.",
+    "properties": []
+  },
+  {
+    "name": "Nova Flail of Twilight",
+    "type": "Saber",
+    "damage_type": "Chaos",
+    "damage_dice": "3d12",
+    "description": "This saber hums an ancient melody when wielded with hatred.",
+    "properties": []
+  },
+  {
+    "name": "Undying Claymore",
+    "type": "Bow",
+    "damage_type": "Lightning",
+    "damage_dice": "1d6",
+    "description": "the Twilight Assassin's favored bow, known to absorbs spells cast at the wielder. Small sparks dance across the surface when wielded.",
+    "properties": []
+  },
+  {
+    "name": "The Berserker's Maul",
+    "type": "Flail",
+    "damage_type": "Fire",
+    "damage_dice": "2d8",
+    "description": "A flail discovered in a hidden shrine, it absorbs spells cast at the wielder with every strike.",
+    "properties": [
+      "Enchanted",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "Spear of boundless rage",
+    "type": "Longsword",
+    "damage_type": "Psychic",
+    "damage_dice": "3d8",
+    "description": "Said to have belonged to Queen Elyndra, this longsword protects against dark magic.",
+    "properties": [
+      "Berserker",
+      "Spectral",
+      "Blessed"
+    ]
+  },
+  {
+    "name": "The Ghost Trident",
+    "type": "Maul",
+    "damage_type": "Force",
+    "damage_dice": "2d12",
+    "description": "When bathed in moonlight, this maul strikes with the force of lightning.",
+    "properties": [
+      "Runic",
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "Nova Glaive of Agony",
+    "type": "Scythe",
+    "damage_type": "Fire",
+    "damage_dice": "2d12",
+    "description": "Legend says this scythe was assembled during a celestial alignment. It grows in power during the night.",
+    "properties": []
+  },
+  {
+    "name": "The Onyx Maul",
+    "type": "Lance",
+    "damage_type": "Chaos",
+    "damage_dice": "2d6",
+    "description": "A lance of unparalleled balance, summons spectral allies in battle upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Arcane Pike of Judgment",
+    "type": "Crossbow",
+    "damage_type": "Radiant",
+    "damage_dice": "3d8",
+    "description": "A crossbow born from the tears of a goddess, it drains the magic from spellcasters with every strike.",
+    "properties": []
+  },
+  {
+    "name": "Bow of perfect weight",
+    "type": "Trident",
+    "damage_type": "Physical",
+    "damage_dice": "2d10",
+    "description": "Said to have belonged to Lich King Morthus, this trident emits blinding light on command.",
+    "properties": [
+      "Soulbound",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Shadow Claymore of Salvation",
+    "type": "Falchion",
+    "damage_type": "Physical",
+    "damage_dice": "2d6",
+    "description": "Wielded long ago by Archmage Vexus, this falchion emits blinding light on command.",
+    "properties": []
+  },
+  {
+    "name": "Claymore of boundless rage",
+    "type": "Axe",
+    "damage_type": "Nature",
+    "damage_dice": "2d12",
+    "description": "Wielded long ago by Blacksmith Durin, this axe amplifies magical abilities.",
+    "properties": []
+  },
+  {
+    "name": "Frost Greataxe",
+    "type": "Longbow",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d4",
+    "description": "Legend says this longbow was carved from a single crystal. It summons spectral allies in battle.",
+    "properties": [
+      "Ethereal",
+      "Ancient",
+      "Sentient"
+    ]
+  },
+  {
+    "name": "Shortbow of boundless rage",
+    "type": "Axe",
+    "damage_type": "Nature",
+    "damage_dice": "3d8",
+    "description": "When confronting ancient evils, this axe strikes with the force of lightning.",
+    "properties": [
+      "Ancient",
+      "Ethereal",
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Lunar Axe",
+    "type": "Claymore",
+    "damage_type": "Nature",
+    "damage_dice": "1d6",
+    "description": "Wielded long ago by Oracle Zephyrus, this claymore can cut through any armor.",
+    "properties": [
+      "Ancient",
+      "Blessed",
+      "Mythical"
+    ]
+  },
+  {
+    "name": "The Tempest Scythe",
+    "type": "Blade",
+    "damage_type": "Radiant",
+    "damage_dice": "2d4",
+    "description": "Wielded long ago by Archmage Vexus, this blade emits blinding light on command.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Mace of Nightmares",
+    "type": "Pike",
+    "damage_type": "Psychic",
+    "damage_dice": "1d4",
+    "description": "A pike of demonic corruption, disrupts magical barriers upon its enemies.",
+    "properties": []
+  },
+  {
+    "name": "Hammer of Agony",
+    "type": "Sword",
+    "damage_type": "Force",
+    "damage_dice": "2d8",
+    "description": "This sword glows with divine light when facing demons or undead.",
+    "properties": [
+      "Legendary",
+      "Berserker"
+    ]
+  },
+  {
+    "name": "The Blazing Glaive",
+    "type": "Flail",
+    "damage_type": "Holy",
+    "damage_dice": "2d12",
+    "description": "Oracle Zephyrus's favored flail, known to marks enemies for hunting.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Infernal Pike",
+    "type": "Staff",
+    "damage_type": "Poison",
+    "damage_dice": "2d6",
+    "description": "When during the heat of battle, this staff slows time during combat.",
+    "properties": [
+      "Sharpened"
+    ]
+  },
+  {
+    "name": "The Kraken Katana",
+    "type": "Halberd",
+    "damage_type": "Fire",
+    "damage_dice": "1d12",
+    "description": "A halberd of ancient wisdom, leaves wounds that never heal upon its enemies. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Legendary",
+      "Ancient",
+      "Cursed"
+    ]
+  },
+  {
+    "name": "Trident of deadly precision",
+    "type": "Shortbow",
+    "damage_type": "Wind",
+    "damage_dice": "1d12",
+    "description": "A shortbow pulled from the heart of a volcano, it reveals invisible creatures with every strike.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Bow of Judgment",
+    "type": "Spear",
+    "damage_type": "Wind",
+    "damage_dice": "2d10",
+    "description": "Forged in the depths of the Shadow Realm, this spear seems to predict its wielder's thoughts.",
+    "properties": [
+      "Legendary"
+    ]
+  },
+  {
+    "name": "The Serpent Claymore",
+    "type": "Claymore",
+    "damage_type": "Force",
+    "damage_dice": "1d6",
+    "description": "Wielded long ago by King Thoran, this claymore never misses its target.",
+    "properties": [
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "The Kraken Longsword",
+    "type": "Katana",
+    "damage_type": "Lightning",
+    "damage_dice": "3d4",
+    "description": "A katana of terrifying presence, creates illusions to confuse foes upon its enemies.",
+    "properties": [
+      "Cursed",
+      "Spectral",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Ancient Glaive",
+    "type": "Greataxe",
+    "damage_type": "Radiant",
+    "damage_dice": "2d8",
+    "description": "Said to have belonged to the Twilight Assassin, this greataxe protects against dark magic.",
+    "properties": [
+      "Enchanted",
+      "Mythical",
+      "Corrupted"
+    ]
+  },
+  {
+    "name": "Saber of unparalleled balance",
+    "type": "Wand",
+    "damage_type": "Chaos",
+    "damage_dice": "2d6",
+    "description": "King Thoran's favored wand, known to leaves trails of elemental energy.",
+    "properties": [
+      "Cursed",
+      "Balanced"
+    ]
+  },
+  {
+    "name": "Ghost Hammer of Despair",
+    "type": "Dagger",
+    "damage_type": "Nature",
+    "damage_dice": "2d6",
+    "description": "This dagger hums an ancient melody, making it mysterious origins.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "Whip of the Ancients",
+    "type": "Flail",
+    "damage_type": "Radiant",
+    "damage_dice": "1d12",
+    "description": "Said to have belonged to High Priestess Lunara, this flail never misses its target.",
+    "properties": [
+      "Balanced",
+      "Soulbound",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Radiant Greatsword of Power",
+    "type": "Staff",
+    "damage_type": "Psychic",
+    "damage_dice": "2d12",
+    "description": "Legend says this staff was born from the tears of a goddess. It summons spectral allies in battle.",
+    "properties": []
+  },
+  {
+    "name": "Crossbow of terrifying presence",
+    "type": "Scythe",
+    "damage_type": "Psychic",
+    "damage_dice": "3d4",
+    "description": "When during a storm, this scythe instills fear in enemies.",
+    "properties": [
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Mace of deadly precision",
+    "type": "Bow",
+    "damage_type": "Radiant",
+    "damage_dice": "1d12",
+    "description": "Forged in the depths of the Eternal Forge, this bow whispers dark secrets.",
+    "properties": [
+      "Ethereal"
+    ]
+  },
+  {
+    "name": "Greatsword of Dragons",
+    "type": "Wand",
+    "damage_type": "Wind",
+    "damage_dice": "3d10",
+    "description": "A wand of divine blessing, causes foes to flee in terror upon its enemies.",
+    "properties": [
+      "Mythical"
+    ]
+  },
+  {
+    "name": "Onyx Shortbow",
+    "type": "Rapier",
+    "damage_type": "Shadow",
+    "damage_dice": "2d6",
+    "description": "This rapier freezes the air around it, making it boundless rage. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Sentient",
+      "Blessed",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Bow of the Ancients",
+    "type": "Spear",
+    "damage_type": "Fire",
+    "damage_dice": "2d4",
+    "description": "When held by a true hero, this spear instills fear in enemies. The weapon radiates heat and occasionally bursts into flames.",
+    "properties": [
+      "Elemental"
+    ]
+  },
+  {
+    "name": "The Nova Longsword",
+    "type": "Blade",
+    "damage_type": "Radiant",
+    "damage_dice": "2d4",
+    "description": "A blade of mysterious origins, grows in power during the night upon its enemies.",
+    "properties": [
+      "Elemental",
+      "Sharpened",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Crossbow of demonic corruption",
+    "type": "Trident",
+    "damage_type": "Shadow",
+    "damage_dice": "2d10",
+    "description": "Legend says this trident was made from the bones of a god. It drains the magic from spellcasters. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Elemental",
+      "Runic",
+      "Spectral"
+    ]
+  },
+  {
+    "name": "Longsword of Light",
+    "type": "Katana",
+    "damage_type": "Wind",
+    "damage_dice": "1d8",
+    "description": "When during the wielder's greatest need, this katana reveals hidden enemies.",
+    "properties": []
+  },
+  {
+    "name": "Lance of Dreams",
+    "type": "Scythe",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d6",
+    "description": "the Demon Prince's favored scythe, known to creates illusions to confuse foes.",
+    "properties": [
+      "Berserker",
+      "Vampiric"
+    ]
+  },
+  {
+    "name": "Wand of Dragons",
+    "type": "Axe",
+    "damage_type": "Physical",
+    "damage_dice": "1d12",
+    "description": "King Thoran's favored axe, known to leaves trails of elemental energy.",
+    "properties": [
+      "Corrupted",
+      "Spectral",
+      "Runic"
+    ]
+  },
+  {
+    "name": "The Ghost Katana",
+    "type": "Greatsword",
+    "damage_type": "Thunder",
+    "damage_dice": "3d10",
+    "description": "When during the wielder's greatest need, this greatsword ignites enemies on contact.",
+    "properties": [
+      "Soulbound"
+    ]
+  },
+  {
+    "name": "The Berserker's Greataxe",
+    "type": "Halberd",
+    "damage_type": "Shadow",
+    "damage_dice": "2d8",
+    "description": "This halberd leaves shadowy trails when swung, making it demonic corruption. The weapon seems to absorb light from its surroundings.",
+    "properties": [
+      "Blessed"
+    ]
+  },
+  {
+    "name": "Ivory Mace",
+    "type": "Axe",
+    "damage_type": "Necrotic",
+    "damage_dice": "2d6",
+    "description": "A axe gifted by a dying wizard, it leaves trails of elemental energy with every strike.",
+    "properties": [
+      "Sharpened",
+      "Vampiric",
+      "Ethereal"
+    ]
+  }
+]

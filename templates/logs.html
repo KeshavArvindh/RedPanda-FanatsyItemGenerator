@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Logs - Fantasy Weapon Generator</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">Fantasy Weapon Generator</div>
+            <div class="tagline">Admin Dashboard</div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>System Information</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-title">Uptime</div>
+                    <div class="stat-value">{{ uptime }}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">Total Requests</div>
+                    <div class="stat-value">{{ request_count }}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">Model</div>
+                    <div class="stat-value">{{ model_name }}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">CPU Usage</div>
+                    <div class="stat-value">{{ cpu_usage }}%</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">Memory Usage</div>
+                    <div class="stat-value">{{ memory_usage }}%</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">Platform</div>
+                    <div class="stat-value">{{ platform }}</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>Request Logs</h2>
+            {% if logs %}
+                {% for log in logs %}
+                <div class="log-entry">
+                    <strong>Time:</strong> {{ log.timestamp }}<br>
+                    <strong>ID:</strong> {{ log.request_id }}<br>
+                    <strong>Prompt:</strong> {{ log.prompt }}<br>
+                    <strong>Status:</strong> {{ log.status }}<br>
+                    {% if log.error %}
+                    <strong>Error:</strong> {{ log.error }}<br>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            {% else %}
+                <p>No logs available.</p>
+            {% endif %}
+        </div>
+        
+        <div class="card">
+            <a href="/"><button>Back to Generator</button></a>
+        </div>
+    </div>
+</body>
+</html>
